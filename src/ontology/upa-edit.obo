@@ -13,12 +13,14 @@ id: UPa:UPC00000
 name: compound
 namespace: compound
 def: "A chemical compound involved in a UniPathway pathway." []
+xref: CHEBI:24431
 
 [Term]
 id: UPa:UCR00000
 name: reaction
 namespace: reaction
 def: "A chemical reaction involved in a UniPathway pathway." []
+xref: GO:0003824
 
 [Term]
 id: UPa:UER00000
