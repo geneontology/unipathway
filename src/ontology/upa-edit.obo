@@ -47438,7 +47438,7 @@ is_a: UPa:UPA00026 ! metabolism
 id: UPa:UPA00437
 name: plant hormone metabolism
 namespace: pathway
-def: "Metabolism of plant hormones (plant growth regulators, PGRs, phytohormons). Plant hormones are internally-secreted chemicals in plants that are used for regulating the plant growth. According to a standard definition, plant hormones are signal molecules produced at specific locations, that occur in very low concentrations, and cause altered processes in target cells at other locations. It is accepted that there are five major classes of plant hormones: auxins, cytokinins(CK's), ethylene, gibberellins (GA's) and abscisic acid (ABA)." [UPa]
+def: "Metabolism of plant hormones (plant growth regulators, PGRs, phytohormones). Plant hormones are internally-secreted chemicals in plants that are used for regulating the plant growth. According to a standard definition, plant hormones are signal molecules produced at specific locations, that occur in very low concentrations, and cause altered processes in target cells at other locations. It is accepted that there are five major classes of plant hormones: auxins, cytokinins(CK's), ethylene, gibberellins (GA's) and abscisic acid (ABA)." [UPa]
 synonym: "phytohormone metabolism" []
 synonym: "plant growth regulator metabolism" []
 synonym: "PGR metabolism" []
@@ -47448,7 +47448,7 @@ is_a: UPa:UPA00434 ! hormone metabolism
 id: UPa:UPA00438
 name: plant hormone biosynthesis
 namespace: pathway
-def: "Biosynthesis of plant hormones (plant growth regulators, PGRs, phytohormons)." [UPa]
+def: "Biosynthesis of plant hormones (plant growth regulators, PGRs, phytohormones)." [UPa]
 synonym: "plant growth regulator biosynthesis" []
 synonym: "phytohormone biosynthesis" []
 synonym: "PGR biosynthesis" []
@@ -47458,7 +47458,7 @@ is_a: UPa:UPA00437 ! plant hormone metabolism
 id: UPa:UPA00439
 name: plant hormone degradation
 namespace: pathway
-def: "degradation of plant hormones (plant growth regulators, PGRs, phytohormons)." [UPa]
+def: "degradation of plant hormones (plant growth regulators, PGRs, phytohormones)." [UPa]
 synonym: "plant growth regulator degradation" []
 synonym: "phytohormone degradation" []
 synonym: "PGR degradation" []
