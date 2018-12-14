@@ -42819,6 +42819,7 @@ xref: PMID:17928292
 xref: PMID:11535604
 is_a: UPa:UPA00506 ! glycolipid biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00451 ! lipopolysaccharide metabolism
+xref: GO:1901760 {source="rdfmatch"} ! beta-L-Ara4N-lipid A biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00038
@@ -43068,6 +43069,7 @@ xref: PMID:15273252
 xref: PMID:7601857
 is_a: UPa:UPA00127 ! anthracycline biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901771 {source="rdfmatch"} ! daunorubicin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00055
@@ -43330,6 +43332,7 @@ synonym: "7,8-didemethyl-8-hydroxy-5-deazariboflavin biosynthesis" []
 xref: PMID:14593448
 is_a: UPa:UPA00399 ! cofactor biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00399 ! cofactor biosynthesis
+xref: GO:1901852 {source="rdfmatch"} ! 7,8-didemethyl-8-hydroxy-5-deazariboflavin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00073
@@ -43455,6 +43458,7 @@ def: "Biosynthesis of methanofuran, the first coenzyme in the methanogenic pathw
 xref: PMID:15715981
 is_a: UPa:UPA00399 ! cofactor biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00399 ! cofactor biosynthesis
+xref: GO:2001120 {source="rdfmatch"} ! methanofuran biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00081
@@ -43477,6 +43481,7 @@ def: "Degradation of naphtalene, an aromatic compound composed of two fused benz
 is_a: UPa:UPA00706 ! aromatic compound degradation
 is_a: UPa:UPA00105 ! xenobiotic degradation
 relationship: uniprot_super_pathway UPa:UPA00433 ! aromatic compound metabolism
+xref: GO:1901170 {source="rdfmatch"} ! naphthalene catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00083
@@ -43486,6 +43491,7 @@ def: "Degradation of 3-chlorocatechol compound. This pathway serves a vital role
 is_a: UPa:UPA00706 ! aromatic compound degradation
 is_a: UPa:UPA00105 ! xenobiotic degradation
 relationship: uniprot_super_pathway UPa:UPA00433 ! aromatic compound metabolism
+xref: GO:1901168 {source="rdfmatch"} ! 3-chlorocatechol catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00084
@@ -43681,6 +43687,7 @@ xref: PMID:12664141
 is_a: UPa:UPA00473 ! polyketide biosynthesis
 is_a: UPa:UPA00295 ! antibiotic biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901127 {source="rdfmatch"} ! candicidin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00102
@@ -43691,6 +43698,7 @@ synonym: "gramicidin biosynthesis" []
 xref: PMID:15938641
 is_a: UPa:UPA00295 ! antibiotic biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901103 {source="rdfmatch"} ! gramicidin S biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00103
@@ -43903,6 +43911,7 @@ namespace: pathway
 def: "Degradation of xanthosine, a purine nucleoside." [UPa:amorgat]
 is_a: UPa:UPA00607 ! purine nucleoside degradation
 relationship: uniprot_super_pathway UPa:UPA00583 ! purine metabolism
+xref: GO:1903228 {source="rdfmatch"} ! xanthosine catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00120
@@ -44077,6 +44086,7 @@ namespace: pathway
 def: "Biosynthesis of L-alanine amino-acid." [UPa:amorgat]
 is_a: UPa:UPA00403 ! proteinogenic amino-acid biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00402 ! amino-acid biosynthesis
+xref: GO:0042852 {source="rdfmatch"} ! L-alanine biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00134
@@ -44454,6 +44464,7 @@ xref: PMID:8577249
 xref: PMID:9531633
 is_a: UPa:UPA00469 ! lincosamide biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901774 {source="rdfmatch"} ! lincomycin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00162
@@ -44523,6 +44534,7 @@ def: "Biosynthesis of phosphinothricin (2-amino-4-(hydroxymethylphosphinyl)butan
 synonym: "2-amino-4-(hydroxymethylphosphinyl)butanoic acid biosynthesis" []
 is_a: UPa:UPA00295 ! antibiotic biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901766 {source="rdfmatch"} ! phosphinothricin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00169
@@ -44564,6 +44576,7 @@ xref: PMID:11759684
 xref: PMID:16332884
 is_a: UPa:UPA00475 ! cephalosporin biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901268 {source="rdfmatch"} ! cephalosporin C biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00173
@@ -44578,6 +44591,7 @@ xref: PMID:15544323
 is_a: UPa:UPA00473 ! polyketide biosynthesis
 is_a: UPa:UPA00295 ! antibiotic biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901112 {source="rdfmatch"} ! actinorhodin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00174
@@ -44587,6 +44601,7 @@ def: "Biosynthesis of tetracenomycin C, a polyketide antibiotic." [UPa:amorgat]
 is_a: UPa:UPA00473 ! polyketide biosynthesis
 is_a: UPa:UPA00295 ! antibiotic biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901106 {source="rdfmatch"} ! tetracenomycin C biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00175
@@ -44596,6 +44611,7 @@ def: "Biosynthesis of granaticin, a polyketide antibiotic." [UPa:amorgat]
 is_a: UPa:UPA00473 ! polyketide biosynthesis
 is_a: UPa:UPA00295 ! antibiotic biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901109 {source="rdfmatch"} ! granaticin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00176
@@ -44625,6 +44641,7 @@ def: "iosynthesis of monensin, a polyketide antifungal." [UPa:amorgat]
 is_a: UPa:UPA00473 ! polyketide biosynthesis
 is_a: UPa:UPA00479 ! antifungal biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00479 ! antifungal biosynthesis
+xref: GO:1901730 {source="rdfmatch"} ! monensin A biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00179
@@ -44641,6 +44658,7 @@ namespace: pathway
 def: "Biosynthesis of tyrocidine antibiotic. Tyrocidine is a mixture of four cyclic decapeptides, tyrocidine A (D-Phe-Pro-Phe-D-Phe-Asn-Gln-Tyr- Val-Orn-Leu), B, C, and D, in which Phe, at positions 3, 4, and Tyr residues are gradually replaced by Trp, depending on the relative concentrations of these amino-acids in the growth medium." [UPa:amorgat]
 is_a: UPa:UPA00295 ! antibiotic biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901904 {source="rdfmatch"} ! tyrocidine biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00181
@@ -44659,6 +44677,7 @@ synonym: "1-carbapen-2-em-3-carboxylic acid biosynthesis" []
 xref: PMID:9402024
 is_a: UPa:UPA00169 ! beta-lactam biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901769 {source="rdfmatch"} ! carbapenem biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00183
@@ -44669,6 +44688,7 @@ xref: PMID:16527306
 xref: MetaCyc:PWY-5633
 is_a: UPa:UPA00169 ! beta-lactam biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901118 {source="rdfmatch"} ! cephamycin C biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00184
@@ -44921,6 +44941,7 @@ synonym: "propionic acid metabolism" []
 synonym: "propionate metabolism" []
 is_a: UPa:UPA00698 ! organic acid metabolism
 relationship: uniprot_super_pathway UPa:UPA00698 ! organic acid metabolism
+xref: GO:0019541 {source="rdfmatch"} ! propionate metabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00206
@@ -44930,6 +44951,7 @@ def: "Fermentation of ethanol." [UPa:amorgat]
 is_a: UPa:UPA00553 ! fermentation
 is_a: UPa:UPA00612 ! alcohol degradation
 relationship: uniprot_super_pathway UPa:UPA00553 ! fermentation
+xref: GO:0019655 {source="rdfmatch"} ! glycolytic fermentation to ethanol {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00207
@@ -45135,6 +45157,7 @@ namespace: pathway
 def: "Degradation of lysine amino-acid." [UPa:amorgat]
 is_a: UPa:UPA00401 ! amino-acid metabolism
 relationship: uniprot_super_pathway UPa:UPA00401 ! amino-acid metabolism
+xref: GO:0006554 {source="rdfmatch"} ! lysine catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00226
@@ -45254,6 +45277,7 @@ namespace: pathway
 def: "Metabolism of beta-glucoside compounds, glycosides in which the sugar moiety is a glucose residue, and the anomeric carbon of the bond is in a beta configuration." [UPa:amorgat]
 is_a: UPa:UPA00411 ! carbohydrate metabolism
 relationship: uniprot_super_pathway UPa:UPA00411 ! carbohydrate metabolism
+xref: GO:1901804 {source="rdfmatch"} ! beta-glucoside metabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00238
@@ -45285,6 +45309,7 @@ def: "Biosynthesis of erythromycin (also known as eryth ethylsuc), a macrolide a
 synonym: "eryth ethylsuc biosynthesis" []
 is_a: UPa:UPA00295 ! antibiotic biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901115 {source="rdfmatch"} ! erythromycin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00241
@@ -45627,6 +45652,7 @@ def: "Biosynthesis of iron-sulfur [Fe-S] cluster. Iron-sulfur [Fe-S] clusters ar
 xref: PMID:15952888
 is_a: UPa:UPA00399 ! cofactor biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00399 ! cofactor biosynthesis
+xref: GO:0016226 {source="rdfmatch"} ! iron-sulfur cluster assembly {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00267
@@ -45948,6 +45974,7 @@ xref: PMID:10648518
 xref: PMID:16237021
 is_a: UPa:UPA00412 ! carbohydrate biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00412 ! carbohydrate biosynthesis
+xref: GO:1901280 {source="rdfmatch"} ! D-ribose 5-phosphate biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00294
@@ -46054,6 +46081,7 @@ synonym: "DL-hyoscyamine degradation" []
 xref: PMID:16736160
 is_a: UPa:UPA00508 ! tropane alkaloid degradation
 relationship: uniprot_super_pathway UPa:UPA00447 ! alkaloid degradation
+xref: GO:1901050 {source="rdfmatch"} ! atropine catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00304
@@ -46315,6 +46343,7 @@ def: "Biosynthesis of pyrrolizidine alkaloids. ipecac alkaloids." [UPa:amorgat]
 xref: PMID:10611289
 is_a: UPa:UPA00446 ! alkaloid biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00446 ! alkaloid biosynthesis
+xref: GO:1901085 {source="rdfmatch"} ! pyrrolizidine alkaloid biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00330
@@ -46721,6 +46750,7 @@ xref: PMID:16262708
 xref: KEGG:map00901 "Indole alkaloid biosynthesis" 
 is_a: UPa:UPA00512 ! terpenoid indole alkaloid biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00446 ! alkaloid biosynthesis
+xref: GO:1900985 {source="rdfmatch"} ! vindoline biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00366
@@ -46972,6 +47002,7 @@ synonym: "AXT biosynthesis" []
 xref: PMID:16434154
 is_a: UPa:UPA00419 ! xantophyll biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00386 ! carotenoid biosynthesis
+xref: GO:1901815 {source="rdfmatch"} ! astaxanthin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00388
@@ -46982,6 +47013,7 @@ synonym: "(3S,5R,6R,3'S,5'R,6'S)-6,7-didehydro-5',6'-epoxy-5,6,5',6'-tetrahydro-
 xref: PMID:11029576
 is_a: UPa:UPA00419 ! xantophyll biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00386 ! carotenoid biosynthesis
+xref: GO:1901833 {source="rdfmatch"} ! all-trans-neoxanthin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00389
@@ -47560,6 +47592,7 @@ def: "The activated methyl donor involved in most biosynthetic methylation is us
 synonym: "S-adenosylmethionine cycle" []
 synonym: "SAM cycle" []
 is_a: UPa:UPA00445 ! one-carbon metabolism
+xref: GO:0033353 {source="rdfmatch"} ! S-adenosylmethionine cycle {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00451
@@ -47596,6 +47629,7 @@ namespace: pathway
 def: "Biosynthesis of oligopeptides." [UPa:amorgat]
 synonym: "peptide biosynthesis" []
 is_a: UPa:UPA00026 ! metabolism
+xref: GO:0043043 {source="rdfmatch"} ! peptide biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00455
@@ -47681,6 +47715,7 @@ name: secondary metabolite biosynthesis
 namespace: pathway
 def: "The formation from simpler components of secondary metabolites." [UPa:amorgat]
 is_a: UPa:UPA00465 ! secondary metabolite metabolism
+xref: GO:0044550 {source="rdfmatch"} ! secondary metabolite biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00465
@@ -47688,6 +47723,7 @@ name: secondary metabolite metabolism
 namespace: pathway
 def: "Metabolism of secondary metabolites. Secondary metabolites are those chemical compounds in organisms that are not directly involved in the normal growth, development or reproduction of organisms. Typically primary metabolites are found across all species within broad phylogenetic groupings, and are produced using the same pathway (or nearly the same pathway) in all these species. Secondary metabolites, by contrast, are often species- specific (or found in only a small set of species in a narrow phylogenetic group), and without these compounds the organism suffers from only a mild impairment, lowered survivability/fecundity, aesthetic differences, or else no change in phenotype at all [http://en.wikipedia.org/wiki/Secondary_metabolite]." [UPa:amorgat]
 is_a: UPa:UPA00026 ! metabolism
+xref: GO:0019748 {source="rdfmatch"} ! secondary metabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00466
@@ -47984,6 +48020,7 @@ namespace: pathway
 def: "Metabolism of lipooligosaccharide." [UPa:amorgat]
 is_a: UPa:UPA00324 ! bacterial outer membrane biogenesis
 is_a: UPa:UPA00436 ! lipid metabolism
+xref: GO:1901269 {source="rdfmatch"} ! lipooligosaccharide metabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00501
@@ -48060,6 +48097,7 @@ name: isoquinoline alkaloid metabolism
 namespace: pathway
 def: "Metabolism of isoquinoline alkaloids." [UPa:amorgat]
 is_a: UPa:UPA00414 ! alkaloid metabolism
+xref: GO:0033076 {source="rdfmatch"} ! isoquinoline alkaloid metabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00510
@@ -48107,6 +48145,7 @@ namespace: pathway
 def: "Biosynthesis of isoquinoline alkaloids." [UPa:amorgat]
 is_a: UPa:UPA00447 ! alkaloid degradation
 is_a: UPa:UPA00509 ! isoquinoline alkaloid metabolism
+xref: GO:0071274 {source="rdfmatch"} ! isoquinoline alkaloid catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00515
@@ -48502,6 +48541,7 @@ xref: PMID:8159166
 xref: PMID:2226838
 is_a: UPa:UPA00550 ! thermoadapter biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00550 ! thermoadapter biosynthesis
+xref: GO:1901369 {source="rdfmatch"} ! cyclic 2,3-bisphospho-D-glycerate biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00552
@@ -49028,6 +49068,7 @@ synonym: "xanthosine monophosphate biosynthesis" []
 synonym: "xanthosine 5'-phosphate biosynthesis" []
 is_a: UPa:UPA00584 ! purine biosynthesis
 is_a: UPa:UPA00488 ! purine nucleotide biosynthesis
+xref: GO:0097293 {source="rdfmatch"} ! XMP biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00601
@@ -49746,6 +49787,7 @@ namespace: pathway
 def: "The first step of lipoprotein biosynthesis consist of lipidation reaction, carried out by the enzyme lipoprotein diacylglyceryl transferase (Lgt)." [UPa:amorgat]
 is_a: UPa:UPA00663 ! lipoprotein biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00460 ! protein modification
+xref: GO:0097302 {source="rdfmatch"} ! lipoprotein biosynthetic process via diacylglyceryl transfer {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00665
@@ -49763,6 +49805,7 @@ namespace: pathway
 def: "The first step of lipoprotein biosynthesis consist of addition of an N-acyl moiety to the amino group of the N-terminal cysteine, This reaction is carried out by the enzyme N-acyl-transferase (Lnt)." [UPa:amorgat]
 is_a: UPa:UPA00663 ! lipoprotein biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00460 ! protein modification
+xref: GO:0097303 {source="rdfmatch"} ! lipoprotein biosynthetic process via N-acyl transfer {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00667
@@ -49917,6 +49960,7 @@ def: "Biosynthesis of spheroidene carotenoids from neurosporene." [UPa:amorgat]
 xref: PMID:2747617
 is_a: UPa:UPA00386 ! carotenoid biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00386 ! carotenoid biosynthesis
+xref: GO:1901180 {source="rdfmatch"} ! spheroidene biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00684
@@ -49925,6 +49969,7 @@ namespace: pathway
 def: "Degradation of heme. Bilirubin is a yellow breakdown product of normal heme catabolism." [UPa:amorgat]
 is_a: UPa:UPA00679 ! porphyrin-containing compound degradation
 relationship: uniprot_super_pathway UPa:UPA00677 ! porphyrin-containing compound metabolism
+xref: GO:1900548 {source="rdfmatch"} ! heme b catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00685
@@ -50011,6 +50056,7 @@ namespace: pathway
 def: "Biosynthesis of bacterial cellulose." [UPa:amorgat]
 is_a: UPa:UPA00693 ! cellulose biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00441 ! glycan metabolism
+xref: GO:0090540 {source="rdfmatch"} ! bacterial cellulose biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00695
@@ -50159,6 +50205,7 @@ is_a: UPa:UPA00707 ! cresol metabolism
 is_a: UPa:UPA00612 ! alcohol degradation
 is_a: UPa:UPA00706 ! aromatic compound degradation
 relationship: uniprot_super_pathway UPa:UPA00433 ! aromatic compound metabolism
+xref: GO:1901785 {source="rdfmatch"} ! p-cresol catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00709
@@ -50330,6 +50377,7 @@ def: "Degradation of quercetin, the aglycone form of a number of other flavonoid
 xref: PMID:14741339
 is_a: UPa:UPA00723 ! flavonoid degradation
 relationship: uniprot_super_pathway UPa:UPA00709 ! flavonoid metabolism
+xref: GO:1901733 {source="rdfmatch"} ! quercetin catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00725
@@ -50340,6 +50388,7 @@ synonym: "hyoscine biosynthesis" []
 is_a: UPa:UPA00464 ! secondary metabolite biosynthesis
 is_a: UPa:UPA00330 ! tropane alkaloid biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00446 ! alkaloid biosynthesis
+xref: GO:1900991 {source="rdfmatch"} ! scopolamine biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00726
@@ -50386,6 +50435,7 @@ xref: PMID:9620964
 xref: PMID:8253666
 is_a: UPa:UPA00481 ! tRNA modification
 relationship: uniprot_super_pathway UPa:UPA00481 ! tRNA modification
+xref: GO:0002195 {source="rdfmatch"} ! 2-methylthio-N-6-(cis-hydroxy)isopentenyl adenosine-tRNA biosynthesis {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00730
@@ -50483,6 +50533,7 @@ synonym: "1,5AnFru degradation" []
 xref: PMID:15716041
 is_a: UPa:UPA00413 ! carbohydrate degradation
 relationship: uniprot_super_pathway UPa:UPA00411 ! carbohydrate metabolism
+xref: GO:1901802 {source="rdfmatch"} ! 1,5-anhydro-D-fructose catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00739
@@ -50492,6 +50543,7 @@ def: "Degradation of benzoyl-CoA. Many aromatic compounds are anaerobically oxid
 xref: PMID:9746358
 is_a: UPa:UPA00706 ! aromatic compound degradation
 relationship: uniprot_super_pathway UPa:UPA00433 ! aromatic compound metabolism
+xref: GO:1901788 {source="rdfmatch"} ! benzoyl-CoA catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00740
@@ -50944,6 +50996,7 @@ xref: PMID:17163967
 xref: PMID:3470285
 is_a: UPa:UPA00399 ! cofactor biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00399 ! cofactor biosynthesis
+xref: GO:1901288 {source="rdfmatch"} ! iron-sulfur-molybdenum cofactor biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00783
@@ -51022,6 +51075,7 @@ def: "Biosynthesis of poly(ribitol phosphate) teichoic acid." [UPa:amorgat]
 synonym: "poly(ribitol phosphate) TA biosynthesis" []
 is_a: UPa:UPA00632 ! teichoic acid biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00547 ! cell wall biogenesis
+xref: GO:1902012 {source="rdfmatch"} ! poly(ribitol phosphate) teichoic acid biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00791
@@ -51103,6 +51157,7 @@ namespace: pathway
 def: "Biosynthesis of zeaxanthin diglucoside, a glycosylated xantophyll carotenoid." [UPa:amorgat]
 is_a: UPa:UPA00419 ! xantophyll biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00386 ! carotenoid biosynthesis
+xref: GO:1901830 {source="rdfmatch"} ! zeaxanthin bis(beta-D-glucoside) biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00799
@@ -51129,6 +51184,7 @@ namespace: pathway
 def: "Biosynthesis of delta-carotene, a cyclic carotene compound." [UPa:amorgat]
 is_a: UPa:UPA00418 ! carotene biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00386 ! carotenoid biosynthesis
+xref: GO:1901824 {source="rdfmatch"} ! delta-carotene biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00802
@@ -51137,6 +51193,7 @@ namespace: pathway
 def: "Biosynthesis of beta-carotene, a cyclic carotene compound." [UPa:amorgat]
 is_a: UPa:UPA00418 ! carotene biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00386 ! carotenoid biosynthesis
+xref: GO:1901812 {source="rdfmatch"} ! beta-carotene biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00803
@@ -51145,6 +51202,7 @@ namespace: pathway
 def: "Biosynthesis of lycopene, a bright red carotenoid pigment found in tomatoes and other red fruits." [UPa:amorgat]
 is_a: UPa:UPA00418 ! carotene biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00386 ! carotenoid biosynthesis
+xref: GO:1901177 {source="rdfmatch"} ! lycopene biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00804
@@ -51153,6 +51211,7 @@ namespace: pathway
 def: "Biosynthesis of alpha-zeacarotene, a cyclic carotene compound." [UPa:amorgat]
 is_a: UPa:UPA00418 ! carotene biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00386 ! carotenoid biosynthesis
+xref: GO:1901821 {source="rdfmatch"} ! alpha-zeacarotene biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00805
@@ -51161,6 +51220,7 @@ namespace: pathway
 def: "Biosynthesis of beta-zeacarotene, a cyclic carotene compound." [UPa:amorgat]
 is_a: UPa:UPA00418 ! carotene biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00386 ! carotenoid biosynthesis
+xref: GO:1901818 {source="rdfmatch"} ! beta-zeacarotene biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00806
@@ -51170,6 +51230,7 @@ def: "Biosynthesis of capsanthin, a xantophyll carotenoid." [UPa:amorgat]
 xref: KEGG:map00906 "Carotenoid biosynthesis" 
 is_a: UPa:UPA00419 ! xantophyll biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00386 ! carotenoid biosynthesis
+xref: GO:1901809 {source="rdfmatch"} ! capsanthin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00807
@@ -51179,6 +51240,7 @@ def: "Biosynthesis of capsorubin, a xantophyll carotenoid." [UPa:amorgat]
 xref: KEGG:map00906 "Carotenoid biosynthesis" 
 is_a: UPa:UPA00419 ! xantophyll biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00386 ! carotenoid biosynthesis
+xref: GO:1901866 {source="rdfmatch"} ! capsorubin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00808
@@ -51405,6 +51467,7 @@ def: "Biosynthesis of poly(glycerol phosphate) teichoic acid." [UPa:amorgat]
 synonym: "poly(glycerol phosphate) TA biosynthesis" []
 is_a: UPa:UPA00632 ! teichoic acid biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00547 ! cell wall biogenesis
+xref: GO:1902014 {source="rdfmatch"} ! poly(glycerol phosphate) teichoic acid biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00828
@@ -51484,6 +51547,7 @@ synonym: "3-hydroxyphenylpropionate degradation" []
 synonym: "3-HPP degradation" []
 is_a: UPa:UPA00712 ! phenylpropanoid degradation
 relationship: uniprot_super_pathway UPa:UPA00433 ! aromatic compound metabolism
+xref: GO:1901794 {source="rdfmatch"} ! 3-(3-hydroxyphenyl)propanoate catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00836
@@ -51495,6 +51559,7 @@ synonym: "2,3-dihydroxyphenylpropionic acid degradation" []
 synonym: "2,3-dihydroxyphenylpropionate degradation" []
 is_a: UPa:UPA00712 ! phenylpropanoid degradation
 relationship: uniprot_super_pathway UPa:UPA00433 ! aromatic compound metabolism
+xref: GO:1901791 {source="rdfmatch"} ! 3-(2,3-dihydroxyphenyl)propanoate catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00837
@@ -51572,6 +51637,7 @@ namespace: pathway
 def: "Biosynthesis of zeaxanthin, one of the most common carotenoid alcohols found in nature. It is the pigment that gives corn, saffron, and many other plants their characteristic color." [UPa:amorgat]
 is_a: UPa:UPA00419 ! xantophyll biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00386 ! carotenoid biosynthesis
+xref: GO:1901827 {source="rdfmatch"} ! zeaxanthin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00844
@@ -51673,6 +51739,7 @@ xref: PMID:10094699
 xref: PMID:10099135
 is_a: UPa:UPA00295 ! antibiotic biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901777 {source="rdfmatch"} ! mitomycin C biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00852
@@ -51709,6 +51776,7 @@ xref: PMID:8478324
 xref: PMID:7689965
 is_a: UPa:UPA00854 ! nonprotein amino-acid degradation
 relationship: uniprot_super_pathway UPa:UPA00427 ! amino-acid degradation
+xref: GO:0019468 {source="rdfmatch"} ! nopaline catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00856
@@ -51949,6 +52017,7 @@ def: "Biosynthesis of leukotriene A4 (LTA4)." [UPa:amorgat]
 synonym: "LTA4 biosynthesis" []
 is_a: UPa:UPA00876 ! leukotriene biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00436 ! lipid metabolism
+xref: GO:1901753 {source="rdfmatch"} ! leukotriene A4 biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00878
@@ -51958,6 +52027,7 @@ def: "Biosynthesis of leukotriene B4 (LTB4)." [UPa:amorgat]
 synonym: "LTB4 biosynthesis" []
 is_a: UPa:UPA00876 ! leukotriene biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00436 ! lipid metabolism
+xref: GO:0097251 {source="rdfmatch"} ! leukotriene B4 biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00879
@@ -51976,6 +52046,7 @@ def: "Biosynthesis of leukotriene D4 (LTD4)." [UPa:amorgat]
 synonym: "LTD4 biosynthesis" []
 is_a: UPa:UPA00876 ! leukotriene biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00436 ! lipid metabolism
+xref: GO:1901750 {source="rdfmatch"} ! leukotriene D4 biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00881
@@ -51992,6 +52063,7 @@ name: leukotriene degradation
 namespace: pathway
 def: "Degradation of leukotrienes, eicosanoid lipid mediators derived from arachidonic acid." [UPa:amorgat]
 is_a: UPa:UPA00884 ! leukotriene metabolism
+xref: GO:0036100 {source="rdfmatch"} ! leukotriene catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00883
@@ -52001,6 +52073,7 @@ def: "Degradation of leukotriene B4 (LTB4)." [UPa:amorgat]
 synonym: "LTB4 degradation" []
 is_a: UPa:UPA00882 ! leukotriene degradation
 relationship: uniprot_super_pathway UPa:UPA00436 ! lipid metabolism
+xref: GO:0036101 {source="rdfmatch"} ! leukotriene B4 catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00884
@@ -52071,6 +52144,7 @@ name: secondary metabolite degradation
 namespace: pathway
 def: "Degradation of secondary metabolites." [UPa:amorgat]
 is_a: UPa:UPA00465 ! secondary metabolite metabolism
+xref: GO:0090487 {source="rdfmatch"} ! secondary metabolite catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00891
@@ -52338,6 +52412,7 @@ def: "Biosynthesis of mycolic acids. Mycolic acids are essential elements of the
 xref: PMID:9044265
 is_a: UPa:UPA00420 ! lipid biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00436 ! lipid metabolism
+xref: GO:0071768 {source="rdfmatch"} ! mycolic acid biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00916
@@ -52362,6 +52437,7 @@ xref: PMID:15691921
 xref: MetaCyc:PWY1-3
 is_a: UPa:UPA00320 ! biopolymer biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00316 ! biopolymer metabolism
+xref: GO:0042619 {source="rdfmatch"} ! poly-hydroxybutyrate biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00918
@@ -52430,6 +52506,7 @@ xref: PMID:9471964
 is_a: UPa:UPA00706 ! aromatic compound degradation
 is_a: UPa:UPA00105 ! xenobiotic degradation
 relationship: uniprot_super_pathway UPa:UPA00105 ! xenobiotic degradation
+xref: GO:1900998 {source="rdfmatch"} ! nitrobenzene catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00924
@@ -52460,6 +52537,7 @@ xref: PMID:8163168
 is_a: UPa:UPA00295 ! antibiotic biosynthesis
 is_a: UPa:UPA00473 ! polyketide biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901763 {source="rdfmatch"} ! oxytetracycline biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00927
@@ -52666,6 +52744,7 @@ synonym: "propionic acid degradation" []
 is_a: UPa:UPA00205 ! propanoate metabolism
 is_a: UPa:UPA00699 ! organic acid degradation
 relationship: uniprot_super_pathway UPa:UPA00698 ! organic acid metabolism
+xref: GO:0019543 {source="rdfmatch"} ! propionate catabolic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00947
@@ -52841,6 +52920,7 @@ def: "Biosynthesis of butirosin, a water-soluble aminoglycosidic antibiotic comp
 xref: PMID:12374384
 is_a: UPa:UPA00966 ! aminoglycoside antibiotic biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901758 {source="rdfmatch"} ! butirosin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00965
@@ -52849,6 +52929,7 @@ namespace: pathway
 def: "Biosynthesis of kanamycin, an aminoglycoside antibiotic." [UPa:amorgat]
 is_a: UPa:UPA00966 ! aminoglycoside antibiotic biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901133 {source="rdfmatch"} ! kanamycin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00966
@@ -52881,6 +52962,7 @@ namespace: pathway
 def: "Biosynthesis of neomycin, an aminoglycoside antibiotic." [UPa:amorgat]
 is_a: UPa:UPA00966 ! aminoglycoside antibiotic biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901158 {source="rdfmatch"} ! neomycin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00970
@@ -52889,6 +52971,7 @@ namespace: pathway
 def: "Biosynthesis of paromomycin, an aminoglycoside antibiotic." [UPa:amorgat]
 is_a: UPa:UPA00966 ! aminoglycoside antibiotic biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901155 {source="rdfmatch"} ! paromomycin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00971
@@ -52897,6 +52980,7 @@ namespace: pathway
 def: "Biosynthesis of tobramycin, an aminoglycoside antibiotic." [UPa:amorgat]
 is_a: UPa:UPA00966 ! aminoglycoside antibiotic biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901121 {source="rdfmatch"} ! tobramycin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00972
@@ -52905,6 +52989,7 @@ namespace: pathway
 def: "Biosynthesis of ribostamycin, an aminoglycoside antibiotic." [UPa:amorgat]
 is_a: UPa:UPA00966 ! aminoglycoside antibiotic biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901152 {source="rdfmatch"} ! vistamycin biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00973
@@ -52926,6 +53011,7 @@ xref: PMID:16681390
 is_a: UPa:UPA00295 ! antibiotic biosynthesis
 is_a: UPa:UPA00449 ! sesquiterpene biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
+xref: GO:1901780 {source="rdfmatch"} ! pentalenolactone biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA00975
@@ -53620,6 +53706,7 @@ namespace: pathway
 def: "Biosynthesis of mono unsaturated fatty acids." [UPa:amorgat]
 is_a: UPa:UPA00094 ! fatty acid biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00436 ! lipid metabolism
+xref: GO:1903966 {source="rdfmatch"} ! monounsaturated fatty acid biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA01039
@@ -53761,6 +53848,7 @@ xref: PMID:10092602
 xref: PMID:10207017
 is_a: UPa:UPA00506 ! glycolipid biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00505 ! glycolipid metabolism
+xref: GO:0006688 {source="rdfmatch"} ! glycosphingolipid biosynthetic process {source="rdfmatch"}
 
 [Term]
 id: UPa:UPA01053
