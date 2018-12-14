@@ -50837,7 +50837,6 @@ id: UPa:UPA00768
 name: ergosterol biosynthesis
 namespace: pathway
 def: "Biosynthesis of ergosterol (ergosta-5,7,22-trien-3beta-ol) from zymosterol. Ergosterol is a sterol precursor to Vitamin D2 compounds." [UPa:amorgat]
-xref: GO:0016126 "biological_process:sterol biosynthetic process"
 xref: KEGG:map00100 "Steroid biosynthesis" 
 xref: KEGG:map01100 "Metabolic pathways" 
 xref: MetaCyc:ERGOSTEROL-SYN-PWY
