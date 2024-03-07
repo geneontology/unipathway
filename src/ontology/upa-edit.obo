@@ -33563,7 +33563,7 @@ xref: GO:0008150 "biological_process:biological_process"
 id: UPa:UPA00002
 name: 2-deoxy-D-ribose 1-phosphate degradation
 namespace: pathway
-def: "This pathway provides a direct metabolic link between the deoxyribose moiety of nucleosides and central carbon metabolism, independent of the pentose phosphate cycle. Two enzymes provide this link: the phosphopentomutases (PPMs) and 2-deoxyribose 5-phosphate aldolases (DERAs). PPM isomerizes deoxyribose 1-phosphate to deoxyribose 5-phosphate. Subsequently, DERA cleaves the pentose phosphate to acetaldehyde and glyceraldehyde 3-phosphate, allowing further metabolism to obtain carbon and energy. The deoxyribose 1-phosphate is supplied by various nucleoside phosphorylases, such as thymidine phosphorylase, uridine phosphorylase and purine nucleoside phosphorylase, which release the pentose moiety from (deoxy)ribonucleosides, producing (deoxy)ribose 1-phosphate. ." [UPa:amorgat]
+def: "This pathway provides a direct metabolic link between the deoxyribose moiety of nucleosides and central carbon metabolism, independent of the pentose phosphate cycle. Two enzymes provide this link: the phosphopentomutases (PPMs) and 2-deoxyribose 5-phosphate aldolases (DERAs). PPM isomerizes deoxyribose 1-phosphate to deoxyribose 5-phosphate. Subsequently, DERA cleaves the pentose phosphate to acetaldehyde and glyceraldehyde 3-phosphate, allowing further metabolism to obtain carbon and energy. The deoxyribose 1-phosphate is supplied by various nucleoside phosphorylases, such as thymidine phosphorylase, uridine phosphorylase and purine nucleoside phosphorylase, which release the pentose moiety from (deoxy)ribonucleosides, producing (deoxy)ribose 1-phosphate." [UPa:amorgat]
 xref: GO:0046386 "biological_process:deoxyribose phosphate catabolic process"
 xref: KEGG:map00030 "Pentose phosphate pathway"
 xref: PMID:15205420
@@ -34513,7 +34513,7 @@ relationship: uniprot_super_pathway UPa:UPA00402 ! amino-acid biosynthesis
 id: UPa:UPA00069
 name: 5,6,7,8-tetrahydrosarcinapterin biosynthesis
 namespace: pathway
-def: "Biosynthesis of 5,6,7,8-tetrahydrosarcinapterin (H4SPT), a modified form of H4MPT (5,6,7,8-tetrahydromethanopterin), wherein a glutamyl group linked to the 2-hydroxyglutaric acid terminus. ." [UPa:amorgat]
+def: "Biosynthesis of 5,6,7,8-tetrahydrosarcinapterin (H4SPT), a modified form of H4MPT (5,6,7,8-tetrahydromethanopterin), wherein a glutamyl group linked to the 2-hydroxyglutaric acid terminus." [UPa:amorgat]
 synonym: "H4SPT biosynthesis" EXACT []
 synonym: "sarcinapterin biosynthesis" EXACT []
 is_a: UPa:UPA00399 ! cofactor biosynthesis
@@ -34787,7 +34787,7 @@ relationship: uniprot_super_pathway UPa:UPA00424 ! nucleotide biosynthesis
 id: UPa:UPA00090
 name: abscisate biosynthesis
 namespace: pathway
-def: "Biosynthesis of abscisic acid (ABA), a sesquiterpenoid (15-carbon) plant hormon. Abscisic acid is partially produced via the mevalonic pathway in chloroplasts and other plastids. Because it is synthesized partially in the chloroplasts, it makes sense that biosynthesis primarily occurs in the leaves. The production of ABA is accentuated by stresses such as water loss and freezing temperatures. ." [UPa:amorgat]
+def: "Biosynthesis of abscisic acid (ABA), a sesquiterpenoid (15-carbon) plant hormon. Abscisic acid is partially produced via the mevalonic pathway in chloroplasts and other plastids. Because it is synthesized partially in the chloroplasts, it makes sense that biosynthesis primarily occurs in the leaves. The production of ABA is accentuated by stresses such as water loss and freezing temperatures." [UPa:amorgat]
 synonym: "ABA biosynthesis" EXACT []
 xref: GO:0009688 "biological_process:abscisic acid biosynthetic process"
 is_a: UPa:UPA00438 ! plant hormone biosynthesis
@@ -34798,7 +34798,7 @@ relationship: uniprot_super_pathway UPa:UPA00438 ! plant hormone biosynthesis
 id: UPa:UPA00091
 name: photosynthesis
 namespace: pathway
-def: "Photosynthesis is a biochemical process in which plants, algae, and some bacteria harness the energy of light to produce simple nutrient molecules, such as glucose. During photosynthesis, simple sugars are produced by combining carbon dioxide and water using light (sunlight) as an energy source and producing oxygen as a by-product. Notice that some forms of photosynthesis do not release oxygen. The synthesis by organisms of organic chemical compounds, especially carbohydrates, from carbon dioxide (CO2) using energy obtained from light rather than from the oxidation of chemical compounds. [source: GO] The carboxylation process is generally known as CO2 fixation (carbon fixation), and the oxygenation process is known as photorespiration. ." [UPa:amorgat]
+def: "Photosynthesis is a biochemical process in which plants, algae, and some bacteria harness the energy of light to produce simple nutrient molecules, such as glucose. During photosynthesis, simple sugars are produced by combining carbon dioxide and water using light (sunlight) as an energy source and producing oxygen as a by-product. Notice that some forms of photosynthesis do not release oxygen. The synthesis by organisms of organic chemical compounds, especially carbohydrates, from carbon dioxide (CO2) using energy obtained from light rather than from the oxidation of chemical compounds. [source: GO] The carboxylation process is generally known as CO2 fixation (carbon fixation), and the oxygenation process is known as photorespiration." [UPa:amorgat]
 xref: GO:0015979 "biological_process:photosynthesis"
 is_a: UPa:UPA00426 ! energy metabolism
 relationship: uniprot_super_pathway UPa:UPA00426 ! energy metabolism
@@ -34912,7 +34912,7 @@ relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
 id: UPa:UPA00102
 name: gramicidin S biosynthesis
 namespace: pathway
-def: "Biosynthesis of gramicidin S antibiotic. The linear pentadecapeptide gramicidin has been reported to be assembled by four large multimodular nonribosomal peptide synthetases (NRPSs), LgrABCD, that comprise 16 modules. During biosynthesis, the N-formylated 16mer peptide is bound to the peptidyl carrier protein (PCP) of the terminal module via a thioester bond to the carboxyl group of the last amino-acid glycine(16). In a first reaction the peptide is released from the protein template in an NAD(P)H-dependent reduction step catalyzed by the adjacent reductase forming an aldehyde intermediate. This aldehyde intermediate is further reduced by an aldoreductase, LgrE, in an NADPH-dependent manner to form the final product gramicidin A, N -formyl-pentadecapeptide-ethanolamine. ." [UPa:amorgat]
+def: "Biosynthesis of gramicidin S antibiotic. The linear pentadecapeptide gramicidin has been reported to be assembled by four large multimodular nonribosomal peptide synthetases (NRPSs), LgrABCD, that comprise 16 modules. During biosynthesis, the N-formylated 16mer peptide is bound to the peptidyl carrier protein (PCP) of the terminal module via a thioester bond to the carboxyl group of the last amino-acid glycine(16). In a first reaction the peptide is released from the protein template in an NAD(P)H-dependent reduction step catalyzed by the adjacent reductase forming an aldehyde intermediate. This aldehyde intermediate is further reduced by an aldoreductase, LgrE, in an NADPH-dependent manner to form the final product gramicidin A, N -formyl-pentadecapeptide-ethanolamine." [UPa:amorgat]
 synonym: "gramicidin biosynthesis" EXACT []
 xref: GO:1901103 {source="rdfmatch"}
 xref: PMID:15938641
@@ -35420,7 +35420,7 @@ relationship: uniprot_super_pathway UPa:UPA00096 ! sulfur metabolism
 id: UPa:UPA00141
 name: L-arabinose degradation via L-arabinono-1,4-lactone pathway
 namespace: pathway
-def: "Degradation of L-arabinose via L-arabinono-1,4-lactone pathway. In this catabolic pathway, L-arabinose is oxidized to L-arabino-gamma-lactone (L-arabinono-1,4-lactone) by a NAD(P)+-dependent dehydrogenase. The lactone is cleaved by a lactonase to L-arabonate, followed by two successive dehydration reactions forming L-2-keto-3-deoxyarabonate (L-KDA)2 and alpha-ketoglutaric semialdehyde(alpha-KGSA). The last step is the NAD(P)+-dependent dehydrogenation of alpha-KGSA to alpha-ketoglutaric acid (referred to as the first pathway). Alternatively, L-KDA is cleaved through an aldolase reaction to glycolaldehyde and pyruvate (referred to as the second pathway). ." [UPa:amorgat]
+def: "Degradation of L-arabinose via L-arabinono-1,4-lactone pathway. In this catabolic pathway, L-arabinose is oxidized to L-arabino-gamma-lactone (L-arabinono-1,4-lactone) by a NAD(P)+-dependent dehydrogenase. The lactone is cleaved by a lactonase to L-arabonate, followed by two successive dehydration reactions forming L-2-keto-3-deoxyarabonate (L-KDA)2 and alpha-ketoglutaric semialdehyde(alpha-KGSA). The last step is the NAD(P)+-dependent dehydrogenation of alpha-KGSA to alpha-ketoglutaric acid (referred to as the first pathway). Alternatively, L-KDA is cleaved through an aldolase reaction to glycolaldehyde and pyruvate (referred to as the second pathway)." [UPa:amorgat]
 xref: GO:0019570 "biological_process:L-arabinose catabolic process to 2-oxoglutarate"
 xref: KEGG:map00040 "Pentose and glucuronate interconversions"
 xref: KEGG:map00053 "Ascorbate and aldarate metabolism"
@@ -35492,7 +35492,7 @@ relationship: uniprot_super_pathway UPa:UPA00413 ! carbohydrate degradation
 id: UPa:UPA00146
 name: L-arabinose degradation via L-arabinitol
 namespace: pathway
-def: "Degradation of L-arabinose via L-arabinitol pathway. The fungal L-arabinose catabolic pathway consists of aldose reductase (EC 1.1.1.21), L-arabinitol 4-dehydrogenase (EC 1.1.1.12), L-xylulose reductase (EC 1.1.1.10), D-xylulose reductase (EC 1.1.1.9), and xylulokinase (EC 2.7.1.17) which convert L-arabinose to D-xylulose 5-phosphate. ." [UPa:amorgat]
+def: "Degradation of L-arabinose via L-arabinitol pathway. The fungal L-arabinose catabolic pathway consists of aldose reductase (EC 1.1.1.21), L-arabinitol 4-dehydrogenase (EC 1.1.1.12), L-xylulose reductase (EC 1.1.1.10), D-xylulose reductase (EC 1.1.1.9), and xylulokinase (EC 2.7.1.17) which convert L-arabinose to D-xylulose 5-phosphate." [UPa:amorgat]
 xref: GO:0019569 "biological_process:L-arabinose catabolic process to xylulose 5-phosphate"
 xref: KEGG:map00040 "Pentose and glucuronate interconversions"
 xref: KEGG:map01100 "Metabolic pathways"
@@ -35543,7 +35543,7 @@ relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
 id: UPa:UPA00150
 name: maltose degradation
 namespace: pathway
-def: "Degradation of maltose (malt sugar), a disaccharide formed from two units of glucose joined with an alpha(1-4) linkage. ." [UPa:amorgat]
+def: "Degradation of maltose (malt sugar), a disaccharide formed from two units of glucose joined with an alpha(1-4) linkage." [UPa:amorgat]
 synonym: "malt sugar degradation" EXACT []
 xref: GO:0000025 "biological_process:maltose catabolic process"
 is_a: UPa:UPA00442 ! glycan degradation
@@ -35569,7 +35569,7 @@ relationship: uniprot_super_pathway UPa:UPA00437 ! plant hormone metabolism
 id: UPa:UPA00152
 name: starch biosynthesis
 namespace: pathway
-def: "Biosynthesis of starch, a complex carbohydrate, used by plants as a way to store excess glucose. Starch contains a mixture of two molecules: amylose and amylopectin. Usually these are found in a ratio of 30:70 or 20:80, with amylopectin found in larger amounts than amylose. Starch is often found in the fruit, seeds, rhizomes or tubers of plants. ." [UPa:amorgat]
+def: "Biosynthesis of starch, a complex carbohydrate, used by plants as a way to store excess glucose. Starch contains a mixture of two molecules: amylose and amylopectin. Usually these are found in a ratio of 30:70 or 20:80, with amylopectin found in larger amounts than amylose. Starch is often found in the fruit, seeds, rhizomes or tubers of plants." [UPa:amorgat]
 xref: GO:0019252 "biological_process:starch biosynthetic process"
 is_a: UPa:UPA00484 ! glycan biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00484 ! glycan biosynthesis
@@ -35578,7 +35578,7 @@ relationship: uniprot_super_pathway UPa:UPA00484 ! glycan biosynthesis
 id: UPa:UPA00153
 name: starch degradation
 namespace: pathway
-def: "Degradation of starch, a complex carbohydrate, used by plants as a way to store excess glucose. Starch contains a mixture of two molecules: amylose and amylopectin. Usually these are found in a ratio of 30:70 or 20:80, with amylopectin found in larger amounts than amylose. Starch is often found in the fruit, seeds, rhizomes or tubers of plants. ." [UPa:amorgat]
+def: "Degradation of starch, a complex carbohydrate, used by plants as a way to store excess glucose. Starch contains a mixture of two molecules: amylose and amylopectin. Usually these are found in a ratio of 30:70 or 20:80, with amylopectin found in larger amounts than amylose. Starch is often found in the fruit, seeds, rhizomes or tubers of plants." [UPa:amorgat]
 xref: GO:0005983 "biological_process:starch catabolic process"
 is_a: UPa:UPA00442 ! glycan degradation
 relationship: uniprot_super_pathway UPa:UPA00442 ! glycan degradation
@@ -35719,7 +35719,7 @@ relationship: uniprot_super_pathway UPa:UPA00484 ! glycan biosynthesis
 id: UPa:UPA00165
 name: glycogen degradation
 namespace: pathway
-def: "Degradation of glycogen, the principal storage form of glucose (Glc) in animal cells. Glycogen is found in the form of granules in the cytosol in many cell types, and plays an important role in the glucose cycle. ." [UPa:amorgat]
+def: "Degradation of glycogen, the principal storage form of glucose (Glc) in animal cells. Glycogen is found in the form of granules in the cytosol in many cell types, and plays an important role in the glucose cycle." [UPa:amorgat]
 xref: GO:0005980 "biological_process:glycogen catabolic process"
 is_a: UPa:UPA00442 ! glycan degradation
 relationship: uniprot_super_pathway UPa:UPA00442 ! glycan degradation
@@ -36048,7 +36048,7 @@ relationship: uniprot_super_pathway UPa:UPA00445 ! one-carbon metabolism
 id: UPa:UPA00194
 name: thyroid hormone biosynthesis
 namespace: pathway
-def: "Biosynthesis of thyroid hormones. The thyroid hormones, thyroxine (T4) and triiodothyronine (T3), are tyrosine-based hormones produced by the thyroid gland. An important component in the synthesis is iodine. The major form of thyroid hormone in the blood is thyroxine (T4). ." [UPa:amorgat]
+def: "Biosynthesis of thyroid hormones. The thyroid hormones, thyroxine (T4) and triiodothyronine (T3), are tyrosine-based hormones produced by the thyroid gland. An important component in the synthesis is iodine. The major form of thyroid hormone in the blood is thyroxine (T4)." [UPa:amorgat]
 xref: GO:0006590 "biological_process:thyroid hormone generation"
 is_a: UPa:UPA00435 ! hormone biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00435 ! hormone biosynthesis
@@ -36230,7 +36230,7 @@ relationship: uniprot_super_pathway UPa:UPA00456 ! amine and polyamine degradati
 id: UPa:UPA00212
 name: polyhydroxyalkanoate biosynthesis
 namespace: pathway
-def: "Biosynthesis of polyhydroxyalkanoates (PHAs), linear polyesters produced by bacterial fermentation of sugar or lipids. ." [UPa:amorgat]
+def: "Biosynthesis of polyhydroxyalkanoates (PHAs), linear polyesters produced by bacterial fermentation of sugar or lipids." [UPa:amorgat]
 synonym: "PHA synthesis" EXACT []
 synonym: "polyhydroxyalkanoic acid synthesis" EXACT []
 xref: PMID:12200450
@@ -36259,7 +36259,7 @@ relationship: uniprot_super_pathway UPa:UPA00411 ! carbohydrate metabolism
 id: UPa:UPA00215
 name: nucleotide-sugar metabolism
 namespace: pathway
-def: "Metabolism of nucleotide-sugar compounds. ." [UPa:amorgat]
+def: "Metabolism of nucleotide-sugar compounds." [UPa:amorgat]
 xref: GO:0009225 "biological_process:nucleotide-sugar metabolic process"
 is_a: UPa:UPA00411 ! carbohydrate metabolism
 is_a: UPa:UPA00486 ! nucleotide metabolism
@@ -36791,7 +36791,7 @@ relationship: uniprot_super_pathway UPa:UPA00416 ! isoprenoid biosynthesis
 id: UPa:UPA00261
 name: L-proline degradation into L-glutamate
 namespace: pathway
-def: "Degradation of L-proline into L-glutamic acid throught two-step oxidation of proline. Enteric bacteria possess a multifunctional flavoprotein, called proline utilization A (PutA), that acts as both a membrane-associated proline catabolic enzyme and a transcriptional repressor of proline utilization (put) genes. ." [UPa:amorgat]
+def: "Degradation of L-proline into L-glutamic acid throught two-step oxidation of proline. Enteric bacteria possess a multifunctional flavoprotein, called proline utilization A (PutA), that acts as both a membrane-associated proline catabolic enzyme and a transcriptional repressor of proline utilization (put) genes." [UPa:amorgat]
 xref: GO:0010133 "biological_process:proline catabolic process to glutamate"
 xref: KEGG:map00250 "Alanine, aspartate and glutamate metabolism"
 xref: KEGG:map00330 "Arginine and proline metabolism"
@@ -37067,7 +37067,7 @@ relationship: uniprot_super_pathway UPa:UPA00230 ! glycerolipid metabolism
 id: UPa:UPA00283
 name: germacradienol biosynthesis
 namespace: pathway
-def: "Biosynthesis of the sesquiterponoid germacradienol ((1E,4S,5E,7R)-germacra-1(10),5-dien-11-ol). ." [UPa:amorgat]
+def: "Biosynthesis of the sesquiterponoid germacradienol ((1E,4S,5E,7R)-germacra-1(10),5-dien-11-ol)." [UPa:amorgat]
 synonym: "(1E,4S,5E,7R)-germacra-1(10),5-dien-11-ol biosynthesis" EXACT []
 xref: KEGG:map00909 "Sesquiterpenoid biosynthesis"
 xref: KEGG:map01100 "Metabolic pathways"
@@ -37108,7 +37108,7 @@ relationship: uniprot_super_pathway UPa:UPA00484 ! glycan biosynthesis
 id: UPa:UPA00287
 name: aflatoxin biosynthesis
 namespace: pathway
-def: "Biosynthesis of aflatoxin, a family of acutely toxic, teratogenic, potent carcinogenic, and mutagenic metabolites produced by certain strains of common molds Aspergillus flavus and A. parasiticus. ." [UPa:amorgat]
+def: "Biosynthesis of aflatoxin, a family of acutely toxic, teratogenic, potent carcinogenic, and mutagenic metabolites produced by certain strains of common molds Aspergillus flavus and A. parasiticus." [UPa:amorgat]
 xref: GO:0045122 "biological_process:aflatoxin biosynthetic process"
 xref: PMID:15006741
 xref: PMID:15022028
@@ -37199,7 +37199,7 @@ relationship: uniprot_super_pathway UPa:UPA00412 ! carbohydrate biosynthesis
 id: UPa:UPA00294
 name: formaldehyde assimilation via RuMP pathway
 namespace: pathway
-def: "Formaldehyde is the key intermediate in C1 metabolism and can be assimilated via the ribulose monophosphate (RuMP) pathway. The ribulose monophosphate (RuMP) pathway, involving 3-hexulose-6-phosphate synthase (HPS) and 6-phospho-3-hexuloisomerase (PHI), is now recognized as a widespread prokaryotic pathway for formaldehyde fixation and detoxification. The RuMP pathways consists of three main parts: i) fixation, ii) cleavage and iii) rearrangement. i) Fixation stage: formaldehyde and ribulose-5-phosphate (RuMP) are condensed to form hexulose-6-phosphate (HuMP), which in turn is converted to fructose-6-phosphate (FMP) by hexulosephosphate isomerase (HPI). By the assimilation of three formaldehyde molecules, three molecules of FMP are created. ." [UPa:amorgat]
+def: "Formaldehyde is the key intermediate in C1 metabolism and can be assimilated via the ribulose monophosphate (RuMP) pathway. The ribulose monophosphate (RuMP) pathway, involving 3-hexulose-6-phosphate synthase (HPS) and 6-phospho-3-hexuloisomerase (PHI), is now recognized as a widespread prokaryotic pathway for formaldehyde fixation and detoxification. The RuMP pathways consists of three main parts: i) fixation, ii) cleavage and iii) rearrangement. i) Fixation stage: formaldehyde and ribulose-5-phosphate (RuMP) are condensed to form hexulose-6-phosphate (HuMP), which in turn is converted to fructose-6-phosphate (FMP) by hexulosephosphate isomerase (HPI). By the assimilation of three formaldehyde molecules, three molecules of FMP are created." [UPa:amorgat]
 synonym: "formaldehyde assimilation via ribulose monophosphate cycle" EXACT []
 synonym: "ribulose monophosphate pathway" EXACT []
 synonym: "RuMP cycle" EXACT []
@@ -37233,7 +37233,7 @@ relationship: uniprot_super_pathway UPa:UPA00504 ! steroid metabolism
 id: UPa:UPA00297
 name: dicyanocobinamide salvage pathway
 namespace: pathway
-def: "Dicyanocobinamide is a coenzyme B&lt;sub&gt;12&lt;/sub&gt; precursor. Regarding Woodson ate al [PMID:14990804] prokaryotes have evolved at least two distinct pathways for salvaging the precursor cobinamide (Cbi) from the environment. Both pathways accomplish the same goal, which is to convert AdoCbi (adenosylcobinamide) to AdoCbi-P, a true intermediate of the de novo biosynthetic pathway. ." [UPa:amorgat]
+def: "Dicyanocobinamide is a coenzyme B&lt;sub&gt;12&lt;/sub&gt; precursor. Regarding Woodson ate al [PMID:14990804] prokaryotes have evolved at least two distinct pathways for salvaging the precursor cobinamide (Cbi) from the environment. Both pathways accomplish the same goal, which is to convert AdoCbi (adenosylcobinamide) to AdoCbi-P, a true intermediate of the de novo biosynthetic pathway." [UPa:amorgat]
 synonym: "Cbi salvage pathway" EXACT []
 synonym: "cobinamide salvage pathway" EXACT []
 xref: PMID:14990804
@@ -37357,7 +37357,7 @@ relationship: uniprot_super_pathway UPa:UPA00446 ! alkaloid biosynthesis
 id: UPa:UPA00309
 name: violacein biosynthesis
 namespace: pathway
-def: "Biosynthesis of violacein, a deep violet pigment produced by Chromobacterium violaceum. The low solubility of violacein in water and the high molar extinction coefficient in methanol lead Antonio and Creczynski-Pasa [PMID:15100990] to suppose that it is involved in protection against visible radiation, since C.violaceum bacterium is widely found in the water and soil of tropical and subtropical areas of the world. ." [UPa:amorgat]
+def: "Biosynthesis of violacein, a deep violet pigment produced by Chromobacterium violaceum. The low solubility of violacein in water and the high molar extinction coefficient in methanol lead Antonio and Creczynski-Pasa [PMID:15100990] to suppose that it is involved in protection against visible radiation, since C.violaceum bacterium is widely found in the water and soil of tropical and subtropical areas of the world." [UPa:amorgat]
 xref: PMID:15100990
 xref: PMID:16874749
 xref: PMID:17396254
@@ -37516,7 +37516,7 @@ relationship: uniprot_super_pathway UPa:UPA00091 ! photosynthesis
 id: UPa:UPA00324
 name: bacterial outer membrane biogenesis
 namespace: pathway
-def: "Biogenesis of bacterial outer membrane constituents. ." [UPa:amorgat]
+def: "Biogenesis of bacterial outer membrane constituents." [UPa:amorgat]
 is_a: UPa:UPA00320 ! biopolymer biosynthesis
 is_a: UPa:UPA00931 ! cellular component biogenesis
 
@@ -37662,7 +37662,7 @@ relationship: uniprot_super_pathway UPa:UPA00464 ! secondary metabolite biosynth
 id: UPa:UPA00338
 name: alkanesulfonate degradation
 namespace: pathway
-def: "In the absence of sulfate, a number of yeasts can use alkanesulfonates (aliphatic sulfonates), such as taurine, cysteate, and isethionate, as alternative sulfur sources. Sulfonate utilization by Saccharomyces cerevisiae occurs only under aerobic conditions, is independent of sulfate-utilizing enzymes, and requires sulfite reductase, consistent with the formation of sulfite prior to assimilation. ." [UPa:amorgat]
+def: "In the absence of sulfate, a number of yeasts can use alkanesulfonates (aliphatic sulfonates), such as taurine, cysteate, and isethionate, as alternative sulfur sources. Sulfonate utilization by Saccharomyces cerevisiae occurs only under aerobic conditions, is independent of sulfate-utilizing enzymes, and requires sulfite reductase, consistent with the formation of sulfite prior to assimilation." [UPa:amorgat]
 synonym: "aliphatic sulfonate degradation" EXACT []
 xref: GO:0046306 "biological_process:alkanesulfonate catabolic process"
 xref: PMID:10482536
@@ -37750,7 +37750,7 @@ relationship: uniprot_super_pathway UPa:UPA00458 ! protein biosynthesis
 id: UPa:UPA00346
 name: dibenzothiophene degradation
 namespace: pathway
-def: "Desulfurization of dibenzothiophene (DBT) into 2-hydroxybiphenyl (2-HBP). ." [UPa:amorgat]
+def: "Desulfurization of dibenzothiophene (DBT) into 2-hydroxybiphenyl (2-HBP)." [UPa:amorgat]
 synonym: "2-HBP biosynthesis" EXACT []
 synonym: "2-hydroxybiphenyl biosynthesis" EXACT []
 synonym: "DBT desulfurization" EXACT []
@@ -37985,7 +37985,7 @@ relationship: uniprot_super_pathway UPa:UPA00522 ! organosulfur degradation
 id: UPa:UPA00367
 name: testosterone biosynthesis
 namespace: pathway
-def: "Biosynthesis of testosterone, a steroid hormone from the androgen group. Testosterone is primarily secreted in the testes of males and the ovaries of females although small amounts are secreted by the adrenal glands. ." [UPa:amorgat]
+def: "Biosynthesis of testosterone, a steroid hormone from the androgen group. Testosterone is primarily secreted in the testes of males and the ovaries of females although small amounts are secreted by the adrenal glands." [UPa:amorgat]
 xref: GO:0061370 "biological_process:testosterone biosynthetic process"
 is_a: UPa:UPA00440 ! steroid hormone biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00435 ! hormone biosynthesis
@@ -38262,7 +38262,7 @@ relationship: uniprot_super_pathway UPa:UPA00438 ! plant hormone biosynthesis
 id: UPa:UPA00391
 name: 7-cyano-7-deazaguanine biosynthesis
 namespace: pathway
-def: "Biosynthesis of 7-cyano-7-deazaguanine (preQ0), a 7-deazapurine derivative, precursor of queuosine and archaeosine. ." [UPa:amorgat]
+def: "Biosynthesis of 7-cyano-7-deazaguanine (preQ0), a 7-deazapurine derivative, precursor of queuosine and archaeosine." [UPa:amorgat]
 synonym: "7-cyano-7-carbaguanine biosynthesis" EXACT []
 synonym: "pre-queuosine 0 biosynthesis" EXACT []
 synonym: "preQ0 biosynthesis" EXACT []
@@ -38417,7 +38417,7 @@ is_a: UPa:UPA00403 ! proteinogenic amino-acid biosynthesis
 id: UPa:UPA00405
 name: myo-inositol degradation
 namespace: pathway
-def: "degradation of myo-inositol, one of nine distinct isomers of inositol. ." [UPa:amorgat]
+def: "degradation of myo-inositol, one of nine distinct isomers of inositol." [UPa:amorgat]
 synonym: "cis-1,2,3,5-trans-4,6-cyclohexanehexol degradation" EXACT []
 synonym: "myo-inositol catabolism" EXACT []
 xref: GO:0019310 "biological_process:inositol catabolic process"
@@ -38555,7 +38555,7 @@ is_a: UPa:UPA00436 ! lipid metabolism
 id: UPa:UPA00421
 name: phytoalexin biosynthesis
 namespace: pathway
-def: "Biosynthesis of phytoalexins, a group of antibiotics produced by plants that are under attack. Phytoalexins tend to fall into several classes including terpenoids, glycosteroids and alkaloids. It is convenient to extend the definition to include all phytochemicals that are part of the plant's defensive arsenal. Phytoalexins produced in plants act as toxins to the attacking organism. ." [UPa:amorgat]
+def: "Biosynthesis of phytoalexins, a group of antibiotics produced by plants that are under attack. Phytoalexins tend to fall into several classes including terpenoids, glycosteroids and alkaloids. It is convenient to extend the definition to include all phytochemicals that are part of the plant's defensive arsenal. Phytoalexins produced in plants act as toxins to the attacking organism." [UPa:amorgat]
 xref: GO:0052315 "biological_process:phytoalexin biosynthetic process"
 is_a: UPa:UPA00295 ! antibiotic biosynthesis
 is_a: UPa:UPA00432 ! plant chemical defense
@@ -38598,7 +38598,7 @@ is_a: UPa:UPA00026 ! metabolism
 id: UPa:UPA00426
 name: energy metabolism
 namespace: pathway
-def: "The chemical reactions involved in energy transformations within cells. ." [UPa:amorgat]
+def: "The chemical reactions involved in energy transformations within cells." [UPa:amorgat]
 xref: GO:0006091 "biological_process:generation of precursor metabolites and energy"
 xref: GO:0006112 "biological_process:energy reserve metabolic process"
 is_a: UPa:UPA00026 ! metabolism
@@ -38665,7 +38665,7 @@ is_a: UPa:UPA00496 ! metabolic intermediate metabolism
 id: UPa:UPA00434
 name: hormone metabolism
 namespace: pathway
-def: "Metabolism of hormone, a chemical messenger from one cell (or group of cells) to another. All multicellular organisms produce hormones (including plants, i.e phytohormone). The function of hormones is to serve as a signal to the target cells; the action of hormones is determined by the pattern of secretion and the signal transduction of the receiving tissue. ." [UPa:amorgat]
+def: "Metabolism of hormone, a chemical messenger from one cell (or group of cells) to another. All multicellular organisms produce hormones (including plants, i.e phytohormone). The function of hormones is to serve as a signal to the target cells; the action of hormones is determined by the pattern of secretion and the signal transduction of the receiving tissue." [UPa:amorgat]
 xref: GO:0042445 "biological_process:hormone metabolic process"
 is_a: UPa:UPA00026 ! metabolism
 
@@ -38727,7 +38727,7 @@ is_a: UPa:UPA00435 ! hormone biosynthesis
 id: UPa:UPA00441
 name: glycan metabolism
 namespace: pathway
-def: "Metabolism of glycan polymers. The term glycan refers to a polysaccharide, or oligosaccharide. Glycan may also be used to refer to the carbohydrate portion of a glycoconjugate, such as a glycoprotein, glycolipid, or a proteoglycan. ." [UPa:amorgat]
+def: "Metabolism of glycan polymers. The term glycan refers to a polysaccharide, or oligosaccharide. Glycan may also be used to refer to the carbohydrate portion of a glycoconjugate, such as a glycoprotein, glycolipid, or a proteoglycan." [UPa:amorgat]
 synonym: "oligosaccharide metabolism" EXACT []
 synonym: "polysaccharide metabolism" EXACT []
 xref: GO:0005976 "biological_process:polysaccharide metabolic process"
@@ -38737,7 +38737,7 @@ is_a: UPa:UPA00496 ! metabolic intermediate metabolism
 id: UPa:UPA00442
 name: glycan degradation
 namespace: pathway
-def: "Degradation of glycan polymers. The term glycan refers to a polysaccharide, or oligosaccharide. Glycan may also be used to refer to the carbohydrate portion of a glycoconjugate, such as a glycoprotein, glycolipid, or a proteoglycan. ." [UPa:amorgat]
+def: "Degradation of glycan polymers. The term glycan refers to a polysaccharide, or oligosaccharide. Glycan may also be used to refer to the carbohydrate portion of a glycoconjugate, such as a glycoprotein, glycolipid, or a proteoglycan." [UPa:amorgat]
 synonym: "oligosaccharide degradation" EXACT []
 synonym: "polysaccharide degradation" EXACT []
 xref: GO:0000272 "biological_process:polysaccharide catabolic process"
@@ -38747,7 +38747,7 @@ is_a: UPa:UPA00441 ! glycan metabolism
 id: UPa:UPA00443
 name: trehalose metabolism
 namespace: pathway
-def: "Metabolism of trehalose (mycose), a disaccharide found extensively but not abundantly in nature. It can be synthesised by fungi, plants and invertebrate animals. It is implicated in anhydrobiosis - the ability of plants and animals to withstand prolonged periods of desiccation. Trehalose is the major carbohydrate energy storage molecule used by insects for flight. ." [UPa:amorgat]
+def: "Metabolism of trehalose (mycose), a disaccharide found extensively but not abundantly in nature. It can be synthesised by fungi, plants and invertebrate animals. It is implicated in anhydrobiosis - the ability of plants and animals to withstand prolonged periods of desiccation. Trehalose is the major carbohydrate energy storage molecule used by insects for flight." [UPa:amorgat]
 xref: GO:0005991 "biological_process:trehalose metabolic process"
 is_a: UPa:UPA00441 ! glycan metabolism
 
@@ -38865,7 +38865,7 @@ is_a: UPa:UPA00496 ! metabolic intermediate metabolism
 id: UPa:UPA00456
 name: amine and polyamine degradation
 namespace: pathway
-def: "Degradation of amines and polyamines. ." [UPa:amorgat]
+def: "Degradation of amines and polyamines." [UPa:amorgat]
 xref: GO:0006598 "biological_process:polyamine catabolic process"
 xref: GO:0009310 "biological_process:amine catabolic process"
 is_a: UPa:UPA00455 ! amine and polyamine metabolism
@@ -39666,7 +39666,7 @@ relationship: uniprot_super_pathway UPa:UPA00413 ! carbohydrate degradation
 id: UPa:UPA00542
 name: lactose degradation
 namespace: pathway
-def: "Degradation of lactose, a disaccharide that consists of beta-D-galactose and beta-D-glucose molecules bonded through a beta-1-4 glycosidic linkage. ." [UPa:amorgat]
+def: "Degradation of lactose, a disaccharide that consists of beta-D-galactose and beta-D-glucose molecules bonded through a beta-1-4 glycosidic linkage." [UPa:amorgat]
 synonym: "galactopyranosyl-glucose degradation" EXACT []
 xref: GO:0005990 "biological_process:lactose catabolic process"
 xref: KEGG:map00052 "Galactose metabolism"
@@ -39687,7 +39687,7 @@ relationship: uniprot_super_pathway UPa:UPA00304 ! nucleotide-sugar biosynthesis
 id: UPa:UPA00544
 name: peptidoglycan recycling
 namespace: pathway
-def: "Recycling of peptidoglycan, also known as murein, a polymer consisting of sugars and amino-acids that forms a mesh-like layer outside the plasma membrane of eubacteria. ." [UPa:amorgat]
+def: "Recycling of peptidoglycan, also known as murein, a polymer consisting of sugars and amino-acids that forms a mesh-like layer outside the plasma membrane of eubacteria." [UPa:amorgat]
 synonym: "murein recycling" EXACT []
 xref: GO:0009254 "biological_process:peptidoglycan turnover"
 is_a: UPa:UPA00547 ! cell wall biogenesis
@@ -39736,7 +39736,7 @@ is_a: UPa:UPA00546 ! cell wall metabolism
 id: UPa:UPA00549
 name: peptidoglycan degradation
 namespace: pathway
-def: "Degradation of peptidoglycan, also known as murein, a polymer consisting of sugars and amino-acids that forms a mesh-like layer outside the plasma membrane of eubacteria. ." [UPa:amorgat]
+def: "Degradation of peptidoglycan, also known as murein, a polymer consisting of sugars and amino-acids that forms a mesh-like layer outside the plasma membrane of eubacteria." [UPa:amorgat]
 synonym: "murein degradation" EXACT []
 xref: GO:0016998 "biological_process:cell wall macromolecule catabolic process"
 is_a: UPa:UPA00548 ! cell wall degradation
@@ -39800,7 +39800,7 @@ relationship: uniprot_super_pathway UPa:UPA00553 ! fermentation
 id: UPa:UPA00555
 name: cytochrome c assembly
 namespace: pathway
-def: "Bacterial c-type cytochromes are localized to the outside of the cytoplasmic membrane where they function in electron transport processes. Assembly takes place on the outside of the cytoplasmic membrane, involving separate transport of heme and the apocytochrome across the membrane [PMID:2172694]; the latter occurs via the general protein secretory (Sec) pathway of the cell [PMID:9219541]. Following translocation, assembly proceeds via a pathway involving a number of specific proteins. Two distinct systems have been identified in bacteria. System I is found in alpha - and gamma -proteobacteria, including E. coli, R. capsulatus, B. japonicum, and P. denitrificans. System II seems more widespread than system I, occurring in a range of bacteria including cyanobacteria, Gram-positive bacteria such as Mycobacterium species, beta -, gamma -, and delta -proteobacteria such as B. pertussis, T. ferrooxidans, and H. pylori, respectively, and some extremophiles such as A. aeoliticus. Common to both systems is that the apocytochrome cysteine thiols and the heme iron must be in their reduced states for thioether bond formation to occur. Thiol-disulfide oxidoreductases are required for this, and specific proteins have been identified in a number of system I organisms, including E. coli (CcmG), R. capsulatus (HelX), B. japonicum (CycY), and P. denitrificans (CcmG), and one system II organism, B. pertussis (CcsX) [PMID:12637552]. ." [UPa:amorgat]
+def: "Bacterial c-type cytochromes are localized to the outside of the cytoplasmic membrane where they function in electron transport processes. Assembly takes place on the outside of the cytoplasmic membrane, involving separate transport of heme and the apocytochrome across the membrane [PMID:2172694]; the latter occurs via the general protein secretory (Sec) pathway of the cell [PMID:9219541]. Following translocation, assembly proceeds via a pathway involving a number of specific proteins. Two distinct systems have been identified in bacteria. System I is found in alpha - and gamma -proteobacteria, including E. coli, R. capsulatus, B. japonicum, and P. denitrificans. System II seems more widespread than system I, occurring in a range of bacteria including cyanobacteria, Gram-positive bacteria such as Mycobacterium species, beta -, gamma -, and delta -proteobacteria such as B. pertussis, T. ferrooxidans, and H. pylori, respectively, and some extremophiles such as A. aeoliticus. Common to both systems is that the apocytochrome cysteine thiols and the heme iron must be in their reduced states for thioether bond formation to occur. Thiol-disulfide oxidoreductases are required for this, and specific proteins have been identified in a number of system I organisms, including E. coli (CcmG), R. capsulatus (HelX), B. japonicum (CycY), and P. denitrificans (CcmG), and one system II organism, B. pertussis (CcsX) [PMID:12637552]." [UPa:amorgat]
 synonym: "c-type cytochrome assembly" EXACT []
 xref: PMID:12637552
 xref: PMID:2172694
@@ -39812,7 +39812,7 @@ relationship: uniprot_super_pathway UPa:UPA00460 ! protein modification
 id: UPa:UPA00556
 name: lipoteichoic acid biosynthesis
 namespace: pathway
-def: "Biosynthesis of lipoteichoic acid (LTA), a glycerol phosphate surface polymer. Lipoteichoic acid is a component of the envelope of Gram-positive bacteria. This polyphosphoglycerol compound is substituted with a D-alanyl (D-Ala) ester or a glycosyl residue and is anchored in the membrane by its glycolipid moiety. ." [UPa:amorgat]
+def: "Biosynthesis of lipoteichoic acid (LTA), a glycerol phosphate surface polymer. Lipoteichoic acid is a component of the envelope of Gram-positive bacteria. This polyphosphoglycerol compound is substituted with a D-alanyl (D-Ala) ester or a glycosyl residue and is anchored in the membrane by its glycolipid moiety." [UPa:amorgat]
 synonym: "LTA biosynthesis" EXACT []
 xref: GO:0070395 "biological_process:lipoteichoic acid biosynthetic process"
 xref: PMID:10781555
@@ -39899,7 +39899,7 @@ relationship: uniprot_super_pathway UPa:UPA00427 ! amino-acid degradation
 id: UPa:UPA00562
 name: formaldehyde degradation
 namespace: pathway
-def: "Degradation of formaldehyde, a toxic compound for all organisms from bacteria to humans due to its reactivity with biological macromolecules (nonspecific reactivity with proteins and nucleic acids). Organisms that grow aerobically on single-carbon compounds such as methanol and methane face a special challenge in this regard because formaldehyde is a central metabolic intermediate during methylotrophic growth. ." [UPa:amorgat]
+def: "Degradation of formaldehyde, a toxic compound for all organisms from bacteria to humans due to its reactivity with biological macromolecules (nonspecific reactivity with proteins and nucleic acids). Organisms that grow aerobically on single-carbon compounds such as methanol and methane face a special challenge in this regard because formaldehyde is a central metabolic intermediate during methylotrophic growth." [UPa:amorgat]
 synonym: "formaldehyde oxidation" EXACT []
 synonym: "methanal oxidation" EXACT []
 xref: GO:0046294 "biological_process:formaldehyde catabolic process"
@@ -39979,7 +39979,7 @@ is_a: UPa:UPA00026 ! metabolism
 id: UPa:UPA00568
 name: bacterial bioluminescence
 namespace: pathway
-def: "Bacterial bioluminescence is a tightly regulated energy-consuming process. In Vibrio fischeri, luminescence is produced when luciferase, composed of LuxA and LuxB, converts FMNH2, O2 and an aliphatic aldehyde (RCHO) to FMN, water and an aliphatic acid. LuxC and LuxE recycle the aliphatic acid, which is also produced by LuxD, to regenerate the RCHO substrate, while LuxG and other proteins in the cell reduce FMN using NADH to supply luciferase with FMNH2 [PMID:17590235]. ." [UPa:amorgat]
+def: "Bacterial bioluminescence is a tightly regulated energy-consuming process. In Vibrio fischeri, luminescence is produced when luciferase, composed of LuxA and LuxB, converts FMNH2, O2 and an aliphatic aldehyde (RCHO) to FMN, water and an aliphatic acid. LuxC and LuxE recycle the aliphatic acid, which is also produced by LuxD, to regenerate the RCHO substrate, while LuxG and other proteins in the cell reduce FMN using NADH to supply luciferase with FMNH2 [PMID:17590235]." [UPa:amorgat]
 xref: PMID:17590235
 is_a: UPa:UPA00567 ! bioluminescence
 
@@ -39987,7 +39987,7 @@ is_a: UPa:UPA00567 ! bioluminescence
 id: UPa:UPA00569
 name: fatty acid reduction for biolumincescence
 namespace: pathway
-def: "Fatty acid reduction for bacterial biolumincescence. ." [UPa:amorgat]
+def: "Fatty acid reduction for bacterial biolumincescence." [UPa:amorgat]
 is_a: UPa:UPA00199 ! fatty acid metabolism
 is_a: UPa:UPA00568 ! bacterial bioluminescence
 relationship: uniprot_super_pathway UPa:UPA00436 ! lipid metabolism
@@ -39996,7 +39996,7 @@ relationship: uniprot_super_pathway UPa:UPA00436 ! lipid metabolism
 id: UPa:UPA00570
 name: pyrimidine metabolism
 namespace: pathway
-def: "Metabolism of pyrimidine derivative compounds (nucleotides, nucleosides, nucleobases). ." [UPa:amorgat]
+def: "Metabolism of pyrimidine derivative compounds (nucleotides, nucleosides, nucleobases)." [UPa:amorgat]
 synonym: "pyrimidine derivative metabolism" EXACT []
 is_a: UPa:UPA00433 ! aromatic compound metabolism
 is_a: UPa:UPA00523 ! heterocycle metabolism
@@ -40096,7 +40096,7 @@ relationship: uniprot_super_pathway UPa:UPA00570 ! pyrimidine metabolism
 id: UPa:UPA00580
 name: pyrimidine degradation
 namespace: pathway
-def: "Degradation of pyrimidine derivative compounds (nucleotides, nucleosides, nucleobases). ." [UPa:amorgat]
+def: "Degradation of pyrimidine derivative compounds (nucleotides, nucleosides, nucleobases)." [UPa:amorgat]
 synonym: "pyrimidine derivative degradation" EXACT []
 is_a: UPa:UPA00570 ! pyrimidine metabolism
 
@@ -40121,7 +40121,7 @@ relationship: uniprot_super_pathway UPa:UPA00570 ! pyrimidine metabolism
 id: UPa:UPA00583
 name: purine metabolism
 namespace: pathway
-def: "Metabolism of purine derivative compounds (nucleotides, nucleosides, nucleobases). ." [UPa:amorgat]
+def: "Metabolism of purine derivative compounds (nucleotides, nucleosides, nucleobases)." [UPa:amorgat]
 synonym: "purine derivative metabolism" EXACT []
 is_a: UPa:UPA00433 ! aromatic compound metabolism
 is_a: UPa:UPA00523 ! heterocycle metabolism
@@ -40130,7 +40130,7 @@ is_a: UPa:UPA00523 ! heterocycle metabolism
 id: UPa:UPA00584
 name: purine biosynthesis
 namespace: pathway
-def: "Biosynthesis of purine derivative compounds (nucleotides, nucleosides, nucleobases). ." [UPa:amorgat]
+def: "Biosynthesis of purine derivative compounds (nucleotides, nucleosides, nucleobases)." [UPa:amorgat]
 synonym: "purine derivative biosynthesis" EXACT []
 is_a: UPa:UPA00583 ! purine metabolism
 
@@ -40138,7 +40138,7 @@ is_a: UPa:UPA00583 ! purine metabolism
 id: UPa:UPA00585
 name: purine degradation
 namespace: pathway
-def: "Degradation of purine derivative compounds (nucleotides, nucleosides, nucleobases). Purine degradation has an essential role in nitrogen metabolism in most organism. ." [UPa:amorgat]
+def: "Degradation of purine derivative compounds (nucleotides, nucleosides, nucleobases). Purine degradation has an essential role in nitrogen metabolism in most organism." [UPa:amorgat]
 synonym: "purine derivative degradation" EXACT []
 is_a: UPa:UPA00583 ! purine metabolism
 
@@ -40146,7 +40146,7 @@ is_a: UPa:UPA00583 ! purine metabolism
 id: UPa:UPA00586
 name: purine biosynthesis via salvage pathway
 namespace: pathway
-def: "In purine salvage, nucleosides generated by DNA and RNA breakdown are converted back to nucleotide monophosphates, enabling them to re-enter the pathways of purine biosynthesis. ." [UPa:amorgat]
+def: "In purine salvage, nucleosides generated by DNA and RNA breakdown are converted back to nucleotide monophosphates, enabling them to re-enter the pathways of purine biosynthesis." [UPa:amorgat]
 is_a: UPa:UPA00584 ! purine biosynthesis
 
 [Term]
@@ -40219,7 +40219,7 @@ is_a: UPa:UPA00584 ! purine biosynthesis
 id: UPa:UPA00593
 name: purine biosynthesis via de novo pathway
 namespace: pathway
-def: "Biosynthesis of purine derivative via de novo pathway. ." [UPa:amorgat]
+def: "Biosynthesis of purine derivative via de novo pathway." [UPa:amorgat]
 is_a: UPa:UPA00584 ! purine biosynthesis
 
 [Term]
@@ -40243,7 +40243,7 @@ is_a: UPa:UPA00585 ! purine degradation
 id: UPa:UPA00596
 name: second messenger metabolism
 namespace: pathway
-def: "Metabolism of second messengers, molecular signals (ions or small molecules) released into the cytosol, thereby helping relay the signal within the cell. ." [UPa:amorgat]
+def: "Metabolism of second messengers, molecular signals (ions or small molecules) released into the cytosol, thereby helping relay the signal within the cell." [UPa:amorgat]
 is_a: UPa:UPA00026 ! metabolism
 
 [Term]
@@ -40447,7 +40447,7 @@ is_a: UPa:UPA00613 ! polyol metabolism
 id: UPa:UPA00616
 name: glycerol degradation
 namespace: pathway
-def: "Degradation of glycerol, a trihydric alcohol. Two possible routes of glycerol catabolism have been proposed. In the first pathway, glycerol is phosphorylated to glycerol-3-phosphate by glycerol kinase, and then converted to dihydroxyacetone phosphate by glycerol-3-phosphate dehydrogenase. In the second pathway, glycerol is converted to dihydroxyacetone by NAD-dependent glycerol dehydrogenase, and then phosphorylated to dihydroxyacetone phosphate by dihydroxyacetone kinase. ." [UPa:amorgat]
+def: "Degradation of glycerol, a trihydric alcohol. Two possible routes of glycerol catabolism have been proposed. In the first pathway, glycerol is phosphorylated to glycerol-3-phosphate by glycerol kinase, and then converted to dihydroxyacetone phosphate by glycerol-3-phosphate dehydrogenase. In the second pathway, glycerol is converted to dihydroxyacetone by NAD-dependent glycerol dehydrogenase, and then phosphorylated to dihydroxyacetone phosphate by dihydroxyacetone kinase." [UPa:amorgat]
 synonym: "1,2,3-propanetriol degradation" EXACT []
 xref: GO:0019563 "biological_process:glycerol catabolic process"
 is_a: UPa:UPA00614 ! polyol degradation
@@ -40458,7 +40458,7 @@ relationship: uniprot_super_pathway UPa:UPA00613 ! polyol metabolism
 id: UPa:UPA00617
 name: glycerol fermentation
 namespace: pathway
-def: "In the absence of an external oxidant, glycerol is consumed by a dismutation process involving two sub-pathways. Through one sub-pathway (oxidative route), glycerol is dehydrogenated by an NAD+-linked glycerol dehydrogenase (DhaD) to dihydroxyacetone. This product is then phosphorylated by dihydroxyacetone kinase (DhaK) and funnelled to the central metabolism. Through the other sub-pathway (reductive route), glycerol is dehydrated by coenzyme B12-dependent glycerol dehydratase (DhaB, DhaC, DhaE) to form 3-hydroxypropionaldehyde, which is reduced to the major fermentation product 1,3-propanediol by the NADH-linked 1,3-propanediol dehydrogenase (DhaT), thereby regenerating NAD+ [PMID: 9311132]. ." [UPa:amorgat]
+def: "In the absence of an external oxidant, glycerol is consumed by a dismutation process involving two sub-pathways. Through one sub-pathway (oxidative route), glycerol is dehydrogenated by an NAD+-linked glycerol dehydrogenase (DhaD) to dihydroxyacetone. This product is then phosphorylated by dihydroxyacetone kinase (DhaK) and funnelled to the central metabolism. Through the other sub-pathway (reductive route), glycerol is dehydrated by coenzyme B12-dependent glycerol dehydratase (DhaB, DhaC, DhaE) to form 3-hydroxypropionaldehyde, which is reduced to the major fermentation product 1,3-propanediol by the NADH-linked 1,3-propanediol dehydrogenase (DhaT), thereby regenerating NAD+ [PMID: 9311132]." [UPa:amorgat]
 synonym: "anaerobic glycerol degradation" EXACT []
 xref: GO:0019588 "biological_process:anaerobic glycerol catabolic process"
 xref: KEGG:map00561 "Glycerolipid metabolism"
@@ -40712,7 +40712,7 @@ relationship: uniprot_super_pathway UPa:UPA00441 ! glycan metabolism
 id: UPa:UPA00638
 name: nitric oxide reduction
 namespace: pathway
-def: "Reduction of nitric oxide (NO), a compound present throughout the biosphere. In humans, tightly regulated NO synthases produce sufficient NO to poison pathogens, opportunistic organisms, and neoplastic tissue. Nitric-oxide reductases metabolize NO to N2O in anaerobic denitrifying bacteria and fungi and likely serve an additional role in minimizing NO toxicity. ." [UPa:amorgat]
+def: "Reduction of nitric oxide (NO), a compound present throughout the biosphere. In humans, tightly regulated NO synthases produce sufficient NO to poison pathogens, opportunistic organisms, and neoplastic tissue. Nitric-oxide reductases metabolize NO to N2O in anaerobic denitrifying bacteria and fungi and likely serve an additional role in minimizing NO toxicity." [UPa:amorgat]
 synonym: "nitric-oxid reduction" EXACT []
 synonym: "NO detoxification" EXACT []
 synonym: "NO reduction" EXACT []
@@ -40815,7 +40815,7 @@ relationship: uniprot_super_pathway UPa:UPA00445 ! one-carbon metabolism
 id: UPa:UPA00647
 name: coenzyme M-coenzyme B heterodisulfide reduction
 namespace: pathway
-def: "All processes in methanogenesis lead to the formation of a mixed disulfide bond between coenzyme M and coenzyme B, by a reaction in which coenzyme B reduces methyl-coenzyme M , leading to formation of methane and a coenzyme M-coenzyme B heterodisulfide [PMID:12102556] . There are two different systems that are capable of reducing the coenzyme M-coenzyme B heterodisulfide, using either H2 or a reduced coenzyme F420 as electron donors [PMID:15168610]. ." [UPa:amorgat]
+def: "All processes in methanogenesis lead to the formation of a mixed disulfide bond between coenzyme M and coenzyme B, by a reaction in which coenzyme B reduces methyl-coenzyme M , leading to formation of methane and a coenzyme M-coenzyme B heterodisulfide [PMID:12102556] . There are two different systems that are capable of reducing the coenzyme M-coenzyme B heterodisulfide, using either H2 or a reduced coenzyme F420 as electron donors [PMID:15168610]." [UPa:amorgat]
 synonym: "coenzyme B/coenzyme M regeneration" EXACT []
 xref: KEGG:map00680 "Methane metabolism"
 xref: KEGG:map01100 "Metabolic pathways"
@@ -40863,7 +40863,7 @@ relationship: uniprot_super_pathway UPa:UPA00445 ! one-carbon metabolism
 id: UPa:UPA00651
 name: 3-deoxy-D-manno-octulosonate 4-phosphate biosynthesis
 namespace: pathway
-def: "Biosynthesis of 3-deoxy-D-manno-octulosonate 4-phosphate (KDO 4-phosphate). ." [UPa:amorgat]
+def: "Biosynthesis of 3-deoxy-D-manno-octulosonate 4-phosphate (KDO 4-phosphate)." [UPa:amorgat]
 synonym: "KDO 4-phosphate biosynthesis" EXACT []
 xref: PMID:10531340
 xref: PMID:10952982
@@ -40984,7 +40984,7 @@ relationship: uniprot_super_pathway UPa:UPA00436 ! lipid metabolism
 id: UPa:UPA00662
 name: prostaglandin biosynthesis
 namespace: pathway
-def: "Biosynthesis of prostaglandins, a group of lipid compounds that are derived enzymatically from fatty acids and have important functions in the animal body. Every prostaglandin contains 20 carbon atoms, including a 5-carbon ring. ." [UPa:amorgat]
+def: "Biosynthesis of prostaglandins, a group of lipid compounds that are derived enzymatically from fatty acids and have important functions in the animal body. Every prostaglandin contains 20 carbon atoms, including a 5-carbon ring." [UPa:amorgat]
 xref: GO:0001516 "biological_process:prostaglandin biosynthetic process"
 is_a: UPa:UPA00094 ! fatty acid biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00436 ! lipid metabolism
@@ -40993,7 +40993,7 @@ relationship: uniprot_super_pathway UPa:UPA00436 ! lipid metabolism
 id: UPa:UPA00663
 name: lipoprotein biosynthesis
 namespace: pathway
-def: "The chemical reactions and pathways resulting in the formation of any conjugated, water-soluble protein in which the nonprotein moiety consists of a lipid or lipids [GO:0042158] Both gram-positive and gram-negative bacteria contain lipoproteins that are a functionally diverse group of surface proteins. The roles assigned to lipoproteins include substrate binding coupled to ABC transport systems, sensing of environmental signals, antibiotic resistance, respiration, germination, conjugation, adherence to and invasion of eukaryotic cells, control of protein secretion and folding, modulation of the immune response, and maintenance of envelope integrity. Upon processing, lipoproteins are ultimately tethered to the membrane via a lipid moiety, diacylglycerol, which is covalently bound to an N-terminal conserved cysteine residue. ." [UPa:amorgat]
+def: "The chemical reactions and pathways resulting in the formation of any conjugated, water-soluble protein in which the nonprotein moiety consists of a lipid or lipids [GO:0042158] Both gram-positive and gram-negative bacteria contain lipoproteins that are a functionally diverse group of surface proteins. The roles assigned to lipoproteins include substrate binding coupled to ABC transport systems, sensing of environmental signals, antibiotic resistance, respiration, germination, conjugation, adherence to and invasion of eukaryotic cells, control of protein secretion and folding, modulation of the immune response, and maintenance of envelope integrity. Upon processing, lipoproteins are ultimately tethered to the membrane via a lipid moiety, diacylglycerol, which is covalently bound to an N-terminal conserved cysteine residue." [UPa:amorgat]
 xref: GO:0042158 "biological_process:lipoprotein biosynthetic process"
 xref: PMID:17071755
 xref: PMID:7868582
@@ -41194,7 +41194,7 @@ relationship: uniprot_super_pathway UPa:UPA00677 ! porphyrin-containing compound
 id: UPa:UPA00685
 name: (2,4-dichlorophenoxy)acetate degradation
 namespace: pathway
-def: "Degradation of (2,4-dichlorophenoxy)acetate, a chlorinated phenoxy compound. (2,4-dichlorophenoxy)acetate functions as a systemic herbicide and is used to control many types of broadleaf weeds. ." [UPa:amorgat]
+def: "Degradation of (2,4-dichlorophenoxy)acetate, a chlorinated phenoxy compound. (2,4-dichlorophenoxy)acetate functions as a systemic herbicide and is used to control many types of broadleaf weeds." [UPa:amorgat]
 xref: GO:0046300 "biological_process:2,4-dichlorophenoxyacetic acid catabolic process"
 is_a: UPa:UPA00105 ! xenobiotic degradation
 relationship: uniprot_super_pathway UPa:UPA00105 ! xenobiotic degradation
@@ -41629,7 +41629,7 @@ relationship: uniprot_super_pathway UPa:UPA00105 ! xenobiotic degradation
 id: UPa:UPA00727
 name: coronatine biosynthesis
 namespace: pathway
-def: "Biosynthesis of coronatine, a phytotoxin produced by some plant-pathogenic bacteria. It has been shown that coronatine mimics the action of methyl jasmonate (MeJA) in plants. MeJA is a plant-signaling molecule involved in stress responses such as wounding and pathogen attack. ." [UPa:amorgat]
+def: "Biosynthesis of coronatine, a phytotoxin produced by some plant-pathogenic bacteria. It has been shown that coronatine mimics the action of methyl jasmonate (MeJA) in plants. MeJA is a plant-signaling molecule involved in stress responses such as wounding and pathogen attack." [UPa:amorgat]
 is_a: UPa:UPA00477 ! phytotoxin biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00477 ! phytotoxin biosynthesis
 
@@ -41637,7 +41637,7 @@ relationship: uniprot_super_pathway UPa:UPA00477 ! phytotoxin biosynthesis
 id: UPa:UPA00728
 name: phenol degradation
 namespace: pathway
-def: "Degradation of phenol. ." [UPa:amorgat]
+def: "Degradation of phenol." [UPa:amorgat]
 synonym: "hydroxybenzene" EXACT []
 xref: GO:0019336 "biological_process:phenol-containing compound catabolic process"
 is_a: UPa:UPA00706 ! aromatic compound degradation
@@ -41647,7 +41647,7 @@ relationship: uniprot_super_pathway UPa:UPA00433 ! aromatic compound metabolism
 id: UPa:UPA00729
 name: 2-methylthio-N-6-(cis-hydroxy)isopentenyl adenosine-tRNA biosynthesis
 namespace: pathway
-def: "Biosynthesis of 2-methylthio-N-6-isopentenyl adenosine (ms2i6A), a modified nucleoside present in position 37 (adjacent to and 3' of the anticodon) of tRNAs that read codons beginning with U except tRNA(i.v. Ser) in Escherichia coli. In Salmonella typhimurium, 2-methylthio-N-6-(cis-hydroxy)isopentenyl adenosine (ms2io6A; also referred to as 2-methylthio cis-ribozeatin) is found in tRNA, most likely in the species that have ms2i6A in E. coli. ." [UPa:amorgat]
+def: "Biosynthesis of 2-methylthio-N-6-isopentenyl adenosine (ms2i6A), a modified nucleoside present in position 37 (adjacent to and 3' of the anticodon) of tRNAs that read codons beginning with U except tRNA(i.v. Ser) in Escherichia coli. In Salmonella typhimurium, 2-methylthio-N-6-(cis-hydroxy)isopentenyl adenosine (ms2io6A; also referred to as 2-methylthio cis-ribozeatin) is found in tRNA, most likely in the species that have ms2i6A in E. coli." [UPa:amorgat]
 synonym: "2-methylthio-cis-ribozeatin-tRNA biosynthesis" EXACT []
 synonym: "ms2io6A-tRNA biosynthesis" EXACT []
 xref: GO:0002195 {source="rdfmatch"}
@@ -41706,7 +41706,7 @@ relationship: uniprot_super_pathway UPa:UPA00427 ! amino-acid degradation
 id: UPa:UPA00734
 name: acetylacetone degradation
 namespace: pathway
-def: "Degradation of the diketone acetylacetone (pentane-2,4-dione; 2,4-dioxopentane). Acetylacetone is a widely used industrial chemical with toxic side effects including central neurotoxicity and possible effects on the immune system of mammals, as well as toxicity towards various aquatic organisms and micro-organisms. ." [UPa:amorgat]
+def: "Degradation of the diketone acetylacetone (pentane-2,4-dione; 2,4-dioxopentane). Acetylacetone is a widely used industrial chemical with toxic side effects including central neurotoxicity and possible effects on the immune system of mammals, as well as toxicity towards various aquatic organisms and micro-organisms." [UPa:amorgat]
 synonym: "2,4-dioxopentane degradation" EXACT []
 synonym: "pentane-2,4-dione degradation" EXACT []
 xref: PMID:12379146
@@ -41912,7 +41912,7 @@ is_a: UPa:UPA00433 ! aromatic compound metabolism
 id: UPa:UPA00755
 name: chondroitin sulfate biosynthesis
 namespace: pathway
-def: "Biosynthesis of chondroitin sulfate, a sulfated glycosaminoglycan (GAG) composed of a chain of alternating sugars (N-acetylgalactosamine and glucuronic acid). It is usually found attached to proteins as part of a proteoglycan. ." [UPa:amorgat]
+def: "Biosynthesis of chondroitin sulfate, a sulfated glycosaminoglycan (GAG) composed of a chain of alternating sugars (N-acetylgalactosamine and glucuronic acid). It is usually found attached to proteins as part of a proteoglycan." [UPa:amorgat]
 xref: GO:0030206 "biological_process:chondroitin sulfate biosynthetic process"
 is_a: UPa:UPA00484 ! glycan biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00441 ! glycan metabolism
@@ -41921,7 +41921,7 @@ relationship: uniprot_super_pathway UPa:UPA00441 ! glycan metabolism
 id: UPa:UPA00756
 name: heparan sulfate biosynthesis
 namespace: pathway
-def: "Biosynthesis of heparan sulfate (HS), a linear polysaccharide found in all animal tissues. Heparan sulfate is a member of the glycosaminoglycan family of carbohydrates and is very closely related in structure to heparin. The most common disaccharide unit within heparan sulfate is composed of a glucuronic (GlcA) linked to N-acetylglucosamine (GlcNAc) typically making up around 50% of the total disaccharide units. It is usually found attached to proteins as part of a proteoglycan. ." [UPa:amorgat]
+def: "Biosynthesis of heparan sulfate (HS), a linear polysaccharide found in all animal tissues. Heparan sulfate is a member of the glycosaminoglycan family of carbohydrates and is very closely related in structure to heparin. The most common disaccharide unit within heparan sulfate is composed of a glucuronic (GlcA) linked to N-acetylglucosamine (GlcNAc) typically making up around 50% of the total disaccharide units. It is usually found attached to proteins as part of a proteoglycan." [UPa:amorgat]
 xref: GO:0015012 "biological_process:heparan sulfate proteoglycan biosynthetic process"
 xref: PMID:11121397
 xref: PMID:11274177
@@ -41932,7 +41932,7 @@ relationship: uniprot_super_pathway UPa:UPA00441 ! glycan metabolism
 id: UPa:UPA00757
 name: dhurrin biosynthesis
 namespace: pathway
-def: "Biosynthesis of dhurrin, a tyrosine derived cyanogenic glucoside. Dhurrin functions as a plant defense compound. Cyanogenic glucosides are amino-acid-derived natural products. The ability to synthesize these glucosides is common across many plant genera, including several plant species that are important crop plants like sorghum (Sorghum bicolor), cassava (Manihot esculenta), flax (Linum usitatissimum) and almonds (Prunus dulcis). ." [UPa:amorgat]
+def: "Biosynthesis of dhurrin, a tyrosine derived cyanogenic glucoside. Dhurrin functions as a plant defense compound. Cyanogenic glucosides are amino-acid-derived natural products. The ability to synthesize these glucosides is common across many plant genera, including several plant species that are important crop plants like sorghum (Sorghum bicolor), cassava (Manihot esculenta), flax (Linum usitatissimum) and almonds (Prunus dulcis)." [UPa:amorgat]
 synonym: "(S)-4-hydroxymandelonitrile beta-D-glucoside" EXACT []
 xref: GO:0010132 "biological_process:dhurrin biosynthetic process"
 xref: KEGG:map00460 "Cyanoamino acid metabolism"
@@ -42033,7 +42033,7 @@ relationship: uniprot_super_pathway UPa:UPA00062 ! steroid biosynthesis
 id: UPa:UPA00766
 name: sterol biosynthesis
 namespace: pathway
-def: "Biosynthesis of sterol compounds (steroid alcohols), a subgroup of steroids with a hydroxyl group in the 3-position of the A-ring. ." [UPa:amorgat]
+def: "Biosynthesis of sterol compounds (steroid alcohols), a subgroup of steroids with a hydroxyl group in the 3-position of the A-ring." [UPa:amorgat]
 xref: GO:0016126 "biological_process:sterol biosynthetic process"
 is_a: UPa:UPA00062 ! steroid biosynthesis
 is_a: UPa:UPA00622 ! alcohol biosynthesis
@@ -42114,7 +42114,7 @@ relationship: uniprot_super_pathway UPa:UPA00085 ! phospholipid metabolism
 id: UPa:UPA00773
 name: epidermin biosynthesis
 namespace: pathway
-def: "Biosynthesis of epidermin, a type A lantibiotics that is is ribosomally synthesized and post-translationally modified. Extracellular proteolytic cleavage of the N-terminal leader region is most likely the last modification step in epidermin biosynthesis and leads to the activation of the lantibiotic. ." [UPa:amorgat]
+def: "Biosynthesis of epidermin, a type A lantibiotics that is is ribosomally synthesized and post-translationally modified. Extracellular proteolytic cleavage of the N-terminal leader region is most likely the last modification step in epidermin biosynthesis and leads to the activation of the lantibiotic." [UPa:amorgat]
 xref: PMID:12732329
 xref: PMID:1551392
 xref: PMID:1740156
@@ -42307,7 +42307,7 @@ is_a: UPa:UPA00858 ! carbohydrate acid degradation
 id: UPa:UPA00792
 name: D-gluconate degradation
 namespace: pathway
-def: "Degradation of D-gluconic acid. ." [UPa:amorgat]
+def: "Degradation of D-gluconic acid." [UPa:amorgat]
 synonym: "gluconate utilization system GNT-I" EXACT []
 xref: GO:0046177 "biological_process:D-gluconate catabolic process"
 is_a: UPa:UPA00791 ! aldonic acid degradation
@@ -42532,7 +42532,7 @@ is_a: UPa:UPA00859 ! carbohydrate acid biosynthesis
 id: UPa:UPA00814
 name: D-gluconate biosynthesis
 namespace: pathway
-def: "Biosynthesis of D-gluconic acid, an aldonic acid. ." [UPa:amorgat]
+def: "Biosynthesis of D-gluconic acid, an aldonic acid." [UPa:amorgat]
 xref: GO:0046178 "biological_process:D-gluconate biosynthetic process"
 xref: KEGG:map00030 "Pentose phosphate pathway"
 xref: KEGG:map01100 "Metabolic pathways"
@@ -42602,7 +42602,7 @@ relationship: uniprot_super_pathway UPa:UPA00441 ! glycan metabolism
 id: UPa:UPA00821
 name: exopolysaccharide EPS I biosynthesis
 namespace: pathway
-def: "Biosynthesis of exopolysaccharide EPS I. ." [UPa:amorgat]
+def: "Biosynthesis of exopolysaccharide EPS I." [UPa:amorgat]
 synonym: "EPS I biosynthesis" EXACT []
 xref: PMID:7476194
 xref: PMID:8626297
@@ -42614,7 +42614,7 @@ relationship: uniprot_super_pathway UPa:UPA00441 ! glycan metabolism
 id: UPa:UPA00822
 name: histamine biosynthesis
 namespace: pathway
-def: "Biosynthesis of histamine (2-(4-imidazolyl)ethylamine). This physiologically active amine is derived from the decarboxylation of the amino-acid histidine, a reaction catalyzed by the enzyme L-histidine decarboxylase. ." [UPa:amorgat]
+def: "Biosynthesis of histamine (2-(4-imidazolyl)ethylamine). This physiologically active amine is derived from the decarboxylation of the amino-acid histidine, a reaction catalyzed by the enzyme L-histidine decarboxylase." [UPa:amorgat]
 synonym: "2-(4-imidazolyl)ethylamine biosynthesis" EXACT []
 xref: GO:0001694 "biological_process:histamine biosynthetic process"
 xref: KEGG:map00340 "Histidine metabolism"
@@ -42630,7 +42630,7 @@ relationship: uniprot_super_pathway UPa:UPA00289 ! amine and polyamine biosynthe
 id: UPa:UPA00823
 name: myo-inositol biosynthesis
 namespace: pathway
-def: "Biosynthesis of myo-inositol (cis-1,2,3,5-trans-4,6-cyclohexanehexol), arbocyclic polyol that plays an important role as the structural basis for a number of secondary messengers in eukaryotic cells, including inositol phosphates, phosphatidylinositol (PI) and phosphatidylinositol phosphate (PIP) lipids. ." [UPa:amorgat]
+def: "Biosynthesis of myo-inositol (cis-1,2,3,5-trans-4,6-cyclohexanehexol), arbocyclic polyol that plays an important role as the structural basis for a number of secondary messengers in eukaryotic cells, including inositol phosphates, phosphatidylinositol (PI) and phosphatidylinositol phosphate (PIP) lipids." [UPa:amorgat]
 xref: GO:0006021 "biological_process:inositol biosynthetic process"
 xref: KEGG:map00521 "Streptomycin biosynthesis"
 xref: KEGG:map00562 "Inositol phosphate metabolism"
@@ -42646,7 +42646,7 @@ relationship: uniprot_super_pathway UPa:UPA00613 ! polyol metabolism
 id: UPa:UPA00824
 name: salicylate degradation
 namespace: pathway
-def: "Degradation of salicylic acid, an intermediate in degradation of phenol and naphtalene compounds. ." [UPa:amorgat]
+def: "Degradation of salicylic acid, an intermediate in degradation of phenol and naphtalene compounds." [UPa:amorgat]
 synonym: "UPC00805 meta-cleavage pathway" EXACT []
 xref: GO:0046244 "biological_process:salicylic acid catabolic process"
 is_a: UPa:UPA00706 ! aromatic compound degradation
@@ -42700,7 +42700,7 @@ relationship: uniprot_super_pathway UPa:UPA00547 ! cell wall biogenesis
 id: UPa:UPA00829
 name: quinol/quinone biosynthesis
 namespace: pathway
-def: "Biosynthesis of quinol/quinone cofactors, such as menaquinone (vitamin K2), ubiquinone (coenzyme Q) or phylloquinone (vitamin K1). ." [UPa:amorgat]
+def: "Biosynthesis of quinol/quinone cofactors, such as menaquinone (vitamin K2), ubiquinone (coenzyme Q) or phylloquinone (vitamin K1)." [UPa:amorgat]
 synonym: "quinone cofactor biosynthesis" EXACT []
 xref: GO:1901663 "biological_process:quinone biosynthetic process"
 is_a: UPa:UPA00399 ! cofactor biosynthesis
@@ -42710,7 +42710,7 @@ is_a: UPa:UPA01055 ! quinol/quinone metabolism
 id: UPa:UPA00830
 name: nicotinate biosynthesis
 namespace: pathway
-def: "Biosynthesis of nicotinic acid, also known as niacin or vitamin B3, a water-soluble vitamin. ." [UPa:amorgat]
+def: "Biosynthesis of nicotinic acid, also known as niacin or vitamin B3, a water-soluble vitamin." [UPa:amorgat]
 synonym: "niacin biosynthesis" EXACT []
 synonym: "nicotinic acid biosynthesis" EXACT []
 synonym: "vitamin B3 biosynthesis" EXACT []
@@ -42771,7 +42771,7 @@ relationship: uniprot_super_pathway UPa:UPA00433 ! aromatic compound metabolism
 id: UPa:UPA00836
 name: 3-(2,3-dihydroxyphenyl)propanoate degradation
 namespace: pathway
-def: "Degradation of 3-(2,3-dihydroxyphenyl)propionic acid to KREBS cycle intermediates. ." [UPa:amorgat]
+def: "Degradation of 3-(2,3-dihydroxyphenyl)propionic acid to KREBS cycle intermediates." [UPa:amorgat]
 synonym: "2,3-dihydroxyphenylpropanoate degradation" EXACT []
 synonym: "2,3-dihydroxyphenylpropionate degradation" EXACT []
 synonym: "2,3-dihydroxyphenylpropionic acid degradation" EXACT []
@@ -43000,7 +43000,7 @@ relationship: uniprot_super_pathway UPa:UPA00427 ! amino-acid degradation
 id: UPa:UPA00856
 name: 2-dehydro-3-deoxy-D-gluconate degradation
 namespace: pathway
-def: "Degradation of 2-dehydro-3-deoxy-D-gluconate, a product of pectin or galacturonate degradation. ." [UPa:amorgat]
+def: "Degradation of 2-dehydro-3-deoxy-D-gluconate, a product of pectin or galacturonate degradation." [UPa:amorgat]
 xref: KEGG:map00030 "Pentose phosphate pathway"
 xref: KEGG:map00040 "Pentose and glucuronate interconversions"
 xref: KEGG:map01100 "Metabolic pathways"
@@ -43164,7 +43164,7 @@ relationship: uniprot_super_pathway UPa:UPA00427 ! amino-acid degradation
 id: UPa:UPA00871
 name: benzoxazinone biosynthesis
 namespace: pathway
-def: "Biosynthesis of benzoxazinone compounds. These cyclic hydroxamic acids are dedicated to pathogen defense and are found almost exclusively in Gramineae. ." [UPa:amorgat]
+def: "Biosynthesis of benzoxazinone compounds. These cyclic hydroxamic acids are dedicated to pathogen defense and are found almost exclusively in Gramineae." [UPa:amorgat]
 xref: PMID:9235894
 is_a: UPa:UPA00464 ! secondary metabolite biosynthesis
 is_a: UPa:UPA00754 ! aromatic compound biosynthesis
@@ -43173,7 +43173,7 @@ is_a: UPa:UPA00754 ! aromatic compound biosynthesis
 id: UPa:UPA00872
 name: 2,4-dihydroxy-1,4-benzoxazin-3-one biosynthesis
 namespace: pathway
-def: "Biosynthesis of 2,4-dihydroxy-1,4-benzoxazin-3-one (DIBOA), a cyclic hydroxamic acid. This secondary metabolites found predominantly in Gramineae such as many maize (Zea mays). ." [UPa:amorgat]
+def: "Biosynthesis of 2,4-dihydroxy-1,4-benzoxazin-3-one (DIBOA), a cyclic hydroxamic acid. This secondary metabolites found predominantly in Gramineae such as many maize (Zea mays)." [UPa:amorgat]
 synonym: "DIBOA biosynthesis" EXACT []
 xref: KEGG:map00400 "Phenylalanine, tyrosine and tryptophan biosynthesis"
 xref: KEGG:map00402 "Benzoxazinoid biosynthesis"
@@ -43205,7 +43205,7 @@ relationship: uniprot_super_pathway UPa:UPA00433 ! aromatic compound metabolism
 id: UPa:UPA00874
 name: HC-toxin biosynthesis
 namespace: pathway
-def: "Biosynthesis of HC-toxin, a cyclic tetrapeptide of structure cyclo(D-Pro-L-Ala-D-Ala-L-Aeo), where Aeo stands for 2-amino-9,10-epoxi-8-oxodecanoic acid HC-toxin is an essential virulence determinant for the plant pathogenic fungus Cochliobolus carbonum and an inhibitor of histone deacetylase. ." [UPa:amorgat]
+def: "Biosynthesis of HC-toxin, a cyclic tetrapeptide of structure cyclo(D-Pro-L-Ala-D-Ala-L-Aeo), where Aeo stands for 2-amino-9,10-epoxi-8-oxodecanoic acid HC-toxin is an essential virulence determinant for the plant pathogenic fungus Cochliobolus carbonum and an inhibitor of histone deacetylase." [UPa:amorgat]
 xref: PMID:16839576
 is_a: UPa:UPA00478 ! mycotoxin biosynthesis
 relationship: uniprot_super_pathway UPa:UPA00478 ! mycotoxin biosynthesis
@@ -43315,7 +43315,7 @@ relationship: uniprot_super_pathway UPa:UPA00460 ! protein modification
 id: UPa:UPA00886
 name: protein sumoylation
 namespace: pathway
-def: "Covalent modification of cellular proteins by the ubiquitin-like modifier SUMO. Protein sumoylation regulates various cellular processes, such as nuclear transport, signal transduction, stress response and cell-cycle progression. ." [UPa:amorgat]
+def: "Covalent modification of cellular proteins by the ubiquitin-like modifier SUMO. Protein sumoylation regulates various cellular processes, such as nuclear transport, signal transduction, stress response and cell-cycle progression." [UPa:amorgat]
 xref: GO:0016925 "biological_process:protein sumoylation"
 xref: PMID:11265250
 is_a: UPa:UPA00460 ! protein modification
@@ -43325,7 +43325,7 @@ relationship: uniprot_super_pathway UPa:UPA00460 ! protein modification
 id: UPa:UPA00887
 name: auxin metabolism
 namespace: pathway
-def: "Metabolism of auxins (indole-3-acetic acid, IAA), natural plant hormones involved in several stages of plant growth and development such as cell elongation, cell division, tissue differentiation, and apical dominance. ." [UPa:amorgat]
+def: "Metabolism of auxins (indole-3-acetic acid, IAA), natural plant hormones involved in several stages of plant growth and development such as cell elongation, cell division, tissue differentiation, and apical dominance." [UPa:amorgat]
 synonym: "IAA metabolism" EXACT []
 synonym: "indole-3-acetate metabolism" EXACT []
 synonym: "indole-3-acetic acid metabolism" EXACT []
@@ -43421,7 +43421,7 @@ relationship: uniprot_super_pathway UPa:UPA00445 ! one-carbon metabolism
 id: UPa:UPA00896
 name: (S)-3-hydroxy-3-methylglutaryl-CoA degradation
 namespace: pathway
-def: "Degradation of HMG-CoA ((S)-3-hydroxy-3-methylglutaryl-CoA) into acetoacetic acid. HMG-CoA is an intermediate in the mevalonic acid and leucine degradation pathways. ." [UPa:amorgat]
+def: "Degradation of HMG-CoA ((S)-3-hydroxy-3-methylglutaryl-CoA) into acetoacetic acid. HMG-CoA is an intermediate in the mevalonic acid and leucine degradation pathways." [UPa:amorgat]
 synonym: "(S)-3-hydroxy-3-methylglutaryl-CoA" EXACT []
 synonym: "ketogenesis" EXACT []
 synonym: "ketone biosynthesis" EXACT []
@@ -43617,7 +43617,7 @@ is_a: UPa:UPA00496 ! metabolic intermediate metabolism
 id: UPa:UPA00914
 name: myo-inositol metabolism
 namespace: pathway
-def: "Metabolism of myo-inositol (cis-1,2,3,5-trans-4,6-cyclohexanehexol), arbocyclic polyol that plays an important role as the structural basis for a number of secondary messengers in eukaryotic cells, including inositol phosphates, phosphatidylinositol (PI) and phosphatidylinositol phosphate (PIP) lipids. ." [UPa:amorgat]
+def: "Metabolism of myo-inositol (cis-1,2,3,5-trans-4,6-cyclohexanehexol), arbocyclic polyol that plays an important role as the structural basis for a number of secondary messengers in eukaryotic cells, including inositol phosphates, phosphatidylinositol (PI) and phosphatidylinositol phosphate (PIP) lipids." [UPa:amorgat]
 xref: GO:0006020 "biological_process:inositol metabolic process"
 is_a: UPa:UPA00613 ! polyol metabolism
 relationship: uniprot_super_pathway UPa:UPA00613 ! polyol metabolism
@@ -43761,7 +43761,7 @@ relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
 id: UPa:UPA00927
 name: formaldehyde assimilation via serine pathway
 namespace: pathway
-def: "The serine cycle for formaldehyde assimilation (QSC) is the main assimilatory pathway for methylotrophic growth. ." [UPa:amorgat]
+def: "The serine cycle for formaldehyde assimilation (QSC) is the main assimilatory pathway for methylotrophic growth." [UPa:amorgat]
 synonym: "serine cycle" EXACT []
 synonym: "serine pathway" EXACT []
 xref: MetaCyc:PWY-1622
@@ -43774,7 +43774,7 @@ relationship: uniprot_super_pathway UPa:UPA00445 ! one-carbon metabolism
 id: UPa:UPA00928
 name: methanol degradation
 namespace: pathway
-def: "Conversion of methanol into forrmaldehyde. ." [UPa:amorgat]
+def: "Conversion of methanol into forrmaldehyde." [UPa:amorgat]
 synonym: "formaldehyde biosynthesis" EXACT []
 xref: GO:0046170 "biological_process:methanol catabolic process"
 xref: KEGG:map00680 "Methane metabolism"
@@ -44153,7 +44153,7 @@ relationship: uniprot_super_pathway UPa:UPA00295 ! antibiotic biosynthesis
 id: UPa:UPA00966
 name: aminoglycoside antibiotic biosynthesis
 namespace: pathway
-def: "Biosynthesis of aminoglycoside, a group of antibiotics active against many aerobic gram-negative and some gram-positive bacteria. Aminoglycoside are mostly produced by fungi and contain an amino sugar, and amino-or guanido-substituted inositol ring which are attached by a glycosidic linkage to a hexose nucleus resulting in a polycationic and highly polar compound. T Common examples are streptomycin, gentamicin, amikacin, kanamycin, tobramycin, netilmicin, neomycin, framycetin. ." [UPa:amorgat]
+def: "Biosynthesis of aminoglycoside, a group of antibiotics active against many aerobic gram-negative and some gram-positive bacteria. Aminoglycoside are mostly produced by fungi and contain an amino sugar, and amino-or guanido-substituted inositol ring which are attached by a glycosidic linkage to a hexose nucleus resulting in a polycationic and highly polar compound. T Common examples are streptomycin, gentamicin, amikacin, kanamycin, tobramycin, netilmicin, neomycin, framycetin." [UPa:amorgat]
 xref: GO:0030648 "biological_process:aminoglycoside antibiotic biosynthetic process"
 is_a: UPa:UPA00295 ! antibiotic biosynthesis
 
@@ -44269,7 +44269,7 @@ is_a: UPa:UPA00932 ! cell surface structure biogenesis
 id: UPa:UPA00979
 name: calcium-dependent antibiotic biosynthesis
 namespace: pathway
-def: "Biosynthesis of the calcium-dependent antibiotics (CDAs). CDAs belong to the group of structurally related acidic lipopetide antibiotics, which include A54145, daptomycin, friulimicins and amphomycins. All of these nonribosomally biosynthesized lipopeptides contain N-terminal fatty acid side chains, which is a trans-2,3-epoxyhexanoyl moiety in the case of CDA, along with decapeptide lactone or lactam cores. ." [UPa:amorgat]
+def: "Biosynthesis of the calcium-dependent antibiotics (CDAs). CDAs belong to the group of structurally related acidic lipopetide antibiotics, which include A54145, daptomycin, friulimicins and amphomycins. All of these nonribosomally biosynthesized lipopeptides contain N-terminal fatty acid side chains, which is a trans-2,3-epoxyhexanoyl moiety in the case of CDA, along with decapeptide lactone or lactam cores." [UPa:amorgat]
 xref: PMID:17322197
 xref: PMID:17373765
 is_a: UPa:UPA00295 ! antibiotic biosynthesis
@@ -44439,7 +44439,7 @@ is_a: UPa:UPA00435 ! hormone biosynthesis
 id: UPa:UPA00993
 name: 2-arachidonoylglycerol biosynthesis
 namespace: pathway
-def: "Biosynthesis of 2-arachidonoylglycerol (2-AG), an endogenous lipid that activates brain canabinoid receptors. 2-arachidonoylglycerol is an endocannabinoid. There are two possible routes of 2-AG biosynthesis in neurons [PMID:12843414]. Phospholipase C (PLC)-mediated hydrolysis of membrane phospholipids may produce 1,2-diacylglycerol, which may be subsequently converted to 2-arachidonoylglycerol by diacylglycerol lipase (DGL) activity. Alternatively, phospholipase A1 (PLA1) may generate a lysophospholipid, which may be hydrolyzed to 2-arachidonoylglycerol by a lyso-PLC activity. ." [UPa:amorgat]
+def: "Biosynthesis of 2-arachidonoylglycerol (2-AG), an endogenous lipid that activates brain canabinoid receptors. 2-arachidonoylglycerol is an endocannabinoid. There are two possible routes of 2-AG biosynthesis in neurons [PMID:12843414]. Phospholipase C (PLC)-mediated hydrolysis of membrane phospholipids may produce 1,2-diacylglycerol, which may be subsequently converted to 2-arachidonoylglycerol by diacylglycerol lipase (DGL) activity. Alternatively, phospholipase A1 (PLA1) may generate a lysophospholipid, which may be hydrolyzed to 2-arachidonoylglycerol by a lyso-PLC activity." [UPa:amorgat]
 synonym: "2-AG biosynthesis" EXACT []
 synonym: "sn-2-arachidonoyl-glycerol biosynthesis" EXACT []
 xref: PMID:12843414
@@ -44599,7 +44599,7 @@ is_a: UPa:UPA01007 ! oligosaccharide metabolism
 id: UPa:UPA01009
 name: nicotinate metabolism
 namespace: pathway
-def: "Metabolism of nicotinic acid, also known as niacin or vitamin B3, a water-soluble vitamin. ." [UPa:amorgat]
+def: "Metabolism of nicotinic acid, also known as niacin or vitamin B3, a water-soluble vitamin." [UPa:amorgat]
 synonym: "niacin metabolism" EXACT []
 synonym: "nicotinic acid metabolism" EXACT []
 synonym: "vitamin B3 metabolism" EXACT []
@@ -44612,7 +44612,7 @@ relationship: uniprot_super_pathway UPa:UPA00399 ! cofactor biosynthesis
 id: UPa:UPA01010
 name: nicotinate degradation
 namespace: pathway
-def: "Degradation of nicotinate also known as niacin or vitamin B3, a water-soluble vitamin. ." [UPa:amorgat]
+def: "Degradation of nicotinate also known as niacin or vitamin B3, a water-soluble vitamin." [UPa:amorgat]
 synonym: "niacin degradation" EXACT []
 synonym: "nicotinic acid degradation" EXACT []
 synonym: "vitamin B3 degradation" EXACT []
@@ -44826,7 +44826,7 @@ relationship: uniprot_super_pathway UPa:UPA00402 ! amino-acid biosynthesis
 id: UPa:UPA01029
 name: rifamycin B biosynthesis
 namespace: pathway
-def: "Biosynthesis of rifamycin B. The rifamycins are an important family of ansamycin antibiotics with anti-mycobacterial activity. rifamycin B is synthesized either naturally by the bacterium Amycolatopsis mediterranei (formerly Streptomyces mediterranei, Nocardia mediterranei) or artificially. ." [UPa:amorgat]
+def: "Biosynthesis of rifamycin B. The rifamycins are an important family of ansamycin antibiotics with anti-mycobacterial activity. rifamycin B is synthesized either naturally by the bacterium Amycolatopsis mediterranei (formerly Streptomyces mediterranei, Nocardia mediterranei) or artificially." [UPa:amorgat]
 xref: MetaCyc:PWY-5984
 xref: PMID:16233407
 is_a: UPa:UPA00295 ! antibiotic biosynthesis
@@ -45107,7 +45107,7 @@ is_a: UPa:UPA00398 ! cofactor metabolism
 id: UPa:UPA01056
 name: quinol/quinone degradation
 namespace: pathway
-def: "Degradation of quinone cofactors, such as menaquinone (vitamin K2), ubiquinone (coenzyme Q) or phylloquinone (vitamin K1). ." [UPa:amorgat]
+def: "Degradation of quinone cofactors, such as menaquinone (vitamin K2), ubiquinone (coenzyme Q) or phylloquinone (vitamin K1)." [UPa:amorgat]
 synonym: "quinone cofactor degradation" EXACT []
 xref: GO:1901662 "biological_process:quinone catabolic process"
 is_a: UPa:UPA00483 ! cofactor degradation
@@ -45117,7 +45117,7 @@ is_a: UPa:UPA01055 ! quinol/quinone metabolism
 id: UPa:UPA01057
 name: 1,4-dihydroxy-2-naphthoate biosynthesis
 namespace: pathway
-def: "Biosynthesis of 1,4-dihydroxy-2-naphthoate, the naphtalenic intermediate in the biosynthesis of several quinol/quinone cofactors such as menaquinone (vitamin K2) or phylloquinone (vitamin K1). ." [UPa:amorgat]
+def: "Biosynthesis of 1,4-dihydroxy-2-naphthoate, the naphtalenic intermediate in the biosynthesis of several quinol/quinone cofactors such as menaquinone (vitamin K2) or phylloquinone (vitamin K1)." [UPa:amorgat]
 xref: KEGG:map00130 "Ubiquinone and other terpenoid-quinone biosynthesis"
 xref: KEGG:map01053 "Biosynthesis of siderophore group nonribosomal peptides"
 xref: KEGG:map01100 "Metabolic pathways"
