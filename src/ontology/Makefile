@@ -130,7 +130,9 @@ ANNOTATE_VERSION_IRI = annotate -V $(ONTBASE)/releases/`date +%Y-%m-%d`/$@.owl
 
 # by default we use ELK to perform a reason-relax-reduce chain
 # after that we annotate the ontology with the release versionInfo
-$(ONT).owl: $(SRC)
+$(SRC).relaxed.obo: $(SRC)
+	./relax-qcrs.pl $< > $@.tmp && mv $@.tmp $@
+$(ONT).owl: $(SRC).relaxed.obo
 	$(ROBOT) reason --input $< --reasoner ELK \
 		 relax \
 		 reduce -r ELK \
@@ -235,7 +237,7 @@ IM=build-$(ONT)
 build-docker:
 	docker build -t $(ONT) .
 
-
+include upa.Makefile
 
 
 
